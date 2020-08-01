@@ -4117,3 +4117,1178 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.31-23.40.08:693][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Autosaves/Game/Coin_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2020.07.31-23.40.08:841][656]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Coin_Auto19EB67D384C3930806B0FA4B5A24E8FC1.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Autosaves/Game/Coin_Auto1.uasset'
 [2020.07.31-23.40.08:842][656]LogFileHelpers: Auto-saving content packages took 0.516
+[2020.07.31-23.47.55:288][427]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.08.01-01.59.42:089][395]LogHttp: Warning: 0000016447C7D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8C9B6D0A-42C2-EADE-016E-E5A7A411CA4F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=4a87b32a4b1a5217f87147ad774e54fb%7C372640766a374bd7b3546ca28fe568dc%7Cb4e25255-b552-4d0e-8891-8b36a4bea9c4&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.01-01.59.42:089][395]LogHttp: Warning: 0000016447C7D600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x163db21ff70 [can pipeline])
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 1 (Re-using existing connection! (#40) with host datarouter.ol.epicgames.com)
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.238.237.214) port 443 (#40))
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.01-01.59.42:090][395]LogHttp: Warning: 0000016447C7D600: libcurl info message cache 7 (Closing connection 40)
+[2020.08.01-01.59.42:424][396]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8C9B6D0A-42C2-EADE-016E-E5A7A411CA4F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=4a87b32a4b1a5217f87147ad774e54fb%7C372640766a374bd7b3546ca28fe568dc%7Cb4e25255-b552-4d0e-8891-8b36a4bea9c4&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.08.01-03.02.42:610][108]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.08.01-03.02.42:947][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.08.01-03.02.43:023][108]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/ThirdPersonExampleMap53585B2340B7476B80B63A9A3926CC58.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/ThirdPersonExampleMap.umap'
+[2020.08.01-03.02.43:727][108]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.818
+[2020.08.01-03.02.44:453][108]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.08.01-03.02.44:453][108]LogContentValidation: Display: Validating World /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.01-03.02.51:935][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.08.01-03.02.51:937][465]LogMetaData: Removing '/Game/Levels/World.SKEL_World_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2020.08.01-03.02.51:937][465]LogMetaData: Removing '/Game/Levels/World.World_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2020.08.01-03.02.51:994][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.08.01-03.02.52:066][465]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/World65650E6E4162653710F033B6C9AEED7F.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/World.umap'
+[2020.08.01-03.02.52:753][465]LogFileHelpers: Saving map 'World' took 0.784
+[2020.08.01-03.02.53:368][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.08.01-03.02.53:392][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.08.01-03.02.53:408][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.01-03.02.53:661][465]SourceControl: rm 'Platformer/Content/Levels/ThirdPersonExampleMap.umap'
+[2020.08.01-03.02.53:741][465]AssetCheck: New page: Asset Save: World
+[2020.08.01-03.02.53:741][465]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2020.08.01-03.03.19:968][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.08.01-03.03.21:434][264]LogSlate: Window 'Save Content' being destroyed
+[2020.08.01-03.03.22:061][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Coin" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Coin.uasset" SILENT=true
+[2020.08.01-03.03.22:173][264]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Coin5ECAC39047C680FF3AD725BAFD024D9D.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Coin.uasset'
+[2020.08.01-03.03.22:195][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.08.01-03.03.22:222][264]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenuC2F245E7427711C988FD48B322FD37F9.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap'
+[2020.08.01-03.03.22:480][264]LogFileHelpers: Saving map 'MainMenu' took 0.304
+[2020.08.01-03.03.22:502][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.01-03.03.22:592][264]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/ThirdPersonExampleMapD83FF01F40D9E84BB3DE8BAB7703FA64.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.01-03.03.22:664][264]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.183
+[2020.08.01-03.03.22:946][264]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataDDDDF91143CFFA36EDB16C8FF12299EE.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.01-03.03.22:969][264]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.01-03.03.22:969][264]LogContentValidation: Display: Validating Blueprint /Game/Coin.Coin
+[2020.08.01-03.03.22:969][264]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.08.01-03.03.22:969][264]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.01-03.03.22:970][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.01-03.05.10:321][224]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.08.01-03.09.04:312][704]LogSlate: Took 0.011069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.01-03.09.17:679][132]LogEditorTransaction: Undo Add Widget
+[2020.08.01-03.09.18:157][145]LogEditorTransaction: Undo Resize Widget
+[2020.08.01-03.09.18:599][169]LogEditorTransaction: Undo Resize Widget
+[2020.08.01-03.09.18:959][190]LogEditorTransaction: Undo Resize Widget
+[2020.08.01-03.09.22:114][369]LogEditorTransaction: Redo Resize Widget
+[2020.08.01-03.09.22:255][372]LogEditorTransaction: Redo Resize Widget
+[2020.08.01-03.09.22:411][375]LogEditorTransaction: Redo Resize Widget
+[2020.08.01-03.09.22:574][379]LogEditorTransaction: Redo Add Widget
+[2020.08.01-03.10.27:045][605]LogEditorTransaction: Undo Add Widget
+[2020.08.01-03.11.22:011][932]LogEditorTransaction: Undo Edit Width Override
+[2020.08.01-03.11.22:277][939]LogEditorTransaction: Undo Width Override Edit Condition Changed
+[2020.08.01-03.11.24:064][ 37]LogEditorTransaction: Undo Wrap Widgets
+[2020.08.01-03.11.24:546][ 63]LogEditorTransaction: Undo Move Widget
+[2020.08.01-03.11.26:262][162]LogEditorTransaction: Undo Add Widget
+[2020.08.01-03.12.57:808][102]LogEditorTransaction: Undo Move Widget
+[2020.08.01-03.12.58:326][115]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.08.01-03.12.58:665][130]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.08.01-03.12.59:069][151]LogEditorTransaction: Undo Edit Size Rule
+[2020.08.01-03.12.59:535][171]LogEditorTransaction: Undo Edit Width Override
+[2020.08.01-03.13.00:451][210]LogEditorTransaction: Undo Width Override Edit Condition Changed
+[2020.08.01-03.13.00:800][224]LogEditorTransaction: Undo Wrap Widgets
+[2020.08.01-03.13.01:012][233]LogEditorTransaction: Undo Add Widget
+[2020.08.01-03.13.01:462][256]LogEditorTransaction: Undo Add Widget
+[2020.08.01-03.13.55:472][587]LogEditorTransaction: Undo Move Anchor
+[2020.08.01-03.16.02:414][708]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor' is outside repository
+[2020.08.01-03.16.02:582][712]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor' is outside repository
+[2020.08.01-03.16.08:925][ 41]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor' is outside repository
+[2020.08.01-03.16.34:260][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.08.01-03.16.34:265][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.120
+[2020.08.01-03.16.34:265][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2020.08.01-03.16.34:265][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2020.08.01-03.16.34:291][165]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenu_Auto2EFCC7EAF4CD2F9F65D2BA7B5FF0F5FFE.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset'
+[2020.08.01-03.16.34:292][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Options] ([1] browsable assets)...
+[2020.08.01-03.16.34:292][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Options]
+[2020.08.01-03.16.34:306][165]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Options_Auto240C072CC41E1691F154E5F81BADA5AFC.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Autosaves/Game/UI/Options_Auto2.uasset'
+[2020.08.01-03.16.34:307][165]LogFileHelpers: Auto-saving content packages took 0.043
+[2020.08.01-03.18.20:711][646]BlueprintLog: New page: Compile MainMenu
+[2020.08.01-03.18.20:773][646]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.08.01-03.18.21:527][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset" SILENT=true
+[2020.08.01-03.18.21:562][671]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenu541A52844F6463B7C14D55B7507C02EF.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset'
+[2020.08.01-03.18.21:890][671]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.01-03.18.21:890][671]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.08.01-03.18.26:113][823]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.08.01-03.22.52:429][315]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor' is outside repository
+[2020.08.01-03.23.07:384][933]LogEditorTransaction: Undo Resize Widget
+[2020.08.01-03.23.46:921][109]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor' is outside repository
+[2020.08.01-03.26.33:970][765]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.08.01-03.26.51:364][501]BlueprintLog: New page: Compile Options
+[2020.08.01-03.26.51:418][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.08.01-03.26.52:048][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/Options.uasset" SILENT=true
+[2020.08.01-03.26.52:078][518]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Options6CBF06674F9A804EC7EBB783CAB167A9.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/Options.uasset'
+[2020.08.01-03.26.52:403][518]AssetCheck: New page: Asset Save: Options
+[2020.08.01-03.26.52:403][518]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.08.01-03.26.57:848][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset" SILENT=true
+[2020.08.01-03.26.57:897][802]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenuB5EA6C594EC1D4582A9E188E4B980EA8.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset'
+[2020.08.01-03.26.57:913][802]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.01-03.26.57:913][802]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.08.01-03.27.03:647][ 47]LogSlate: Window 'Options' being destroyed
+[2020.08.01-03.27.03:652][ 47]LogSlate: Window 'Options' being destroyed
+[2020.08.01-03.27.03:660][ 47]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.27.03:660][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.27.03:675][ 47]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.27.03:675][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.27.03:733][ 47]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.27.03:733][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.27.03:747][ 47]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.27.03:748][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.29.04:272][921]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.01-03.29.04:397][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.08.01-03.29.04:413][921]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-03.29.04:414][921]LightingResults: New page: Lighting Build
+[2020.08.01-03.29.04:416][921]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.01-03.29.04:421][921]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.29.04:422][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.29.04:422][921]MapCheck: New page: Map Check
+[2020.08.01-03.29.04:422][921]LightingResults: New page: Lighting Build
+[2020.08.01-03.29.04:514][921]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001638EC16200), frame # 135921
+[2020.08.01-03.29.04:514][921]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001638F0BB9C0), frame # 135921
+[2020.08.01-03.29.04:522][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.08.01-03.29.04:558][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.08.01-03.29.04:582][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.08.01-03.29.04:586][921]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-03.29.04:586][921]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.01-03.29.04:586][921]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001638EC16200), frame # 135921
+[2020.08.01-03.29.04:586][921]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016471B1AAC0), frame # 135921
+[2020.08.01-03.29.04:612][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.08.01-03.29.04:639][921]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-03.29.04:640][921]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.238ms to complete.
+[2020.08.01-03.29.04:640][921]LogFileHelpers: Loading map 'MainMenu' took 0.228
+[2020.08.01-03.29.23:145][291]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.08.01-03.30.04:052][183]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.01-03.31.33:269][691]LogEditorTransaction: Undo Promote To Variable
+[2020.08.01-03.32.46:054][579]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UWidgetBlueprintLibrary::SetInputMode_UIOnlyEx' [Element not found.]
+[2020.08.01-03.33.14:562][741]BlueprintLog: New page: Compile MainMenu
+[2020.08.01-03.33.14:588][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.08.01-03.33.16:438][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.08.01-03.33.16:482][825]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenuEDFFE4DB4E4279D1C37BB2BE94898200.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap'
+[2020.08.01-03.33.16:515][825]LogFileHelpers: Saving map 'MainMenu' took 0.106
+[2020.08.01-03.33.16:529][825]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.01-03.33.16:529][825]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.08.01-03.33.20:432][ 59]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.33.20:440][ 59]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.33.20:484][ 59]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.33.20:484][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.33.21:605][101]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/World.World
+[2020.08.01-03.33.21:630][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.01-03.33.21:632][101]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-03.33.21:632][101]LightingResults: New page: Lighting Build
+[2020.08.01-03.33.21:632][101]LoadErrors: New page: Loading map: World.umap
+[2020.08.01-03.33.21:633][101]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.33.21:633][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.33.21:633][101]MapCheck: New page: Map Check
+[2020.08.01-03.33.21:633][101]LightingResults: New page: Lighting Build
+[2020.08.01-03.33.21:654][101]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016471B1AAC0), frame # 145101
+[2020.08.01-03.33.21:654][101]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001638EC16200), frame # 145101
+[2020.08.01-03.33.21:656][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.01-03.33.21:662][101]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-03.33.21:662][101]LogAIModule: Creating AISystem for world World
+[2020.08.01-03.33.21:662][101]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001638EC16800), frame # 145101
+[2020.08.01-03.33.21:662][101]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000163A1C85940), frame # 145101
+[2020.08.01-03.33.21:690][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.08.01-03.33.21:718][101]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-03.33.21:718][101]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.26ms to complete.
+[2020.08.01-03.33.21:718][101]LogFileHelpers: Loading map 'World' took 0.086
+[2020.08.01-03.34.49:197][161]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/World.World:PersistentLevel.World
+[2020.08.01-03.35.31:799][222]BlueprintLog: New page: Compile World
+[2020.08.01-03.35.31:854][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.08.01-03.35.32:678][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.08.01-03.35.32:784][255]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/WorldD54DFBBF432221EBDB61819E0BE46A93.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/World.umap'
+[2020.08.01-03.35.32:815][255]LogFileHelpers: Saving map 'World' took 0.164
+[2020.08.01-03.35.32:825][255]AssetCheck: New page: Asset Save: World
+[2020.08.01-03.35.32:825][255]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2020.08.01-03.35.43:235][422]LogSlate: Window 'World' being destroyed
+[2020.08.01-03.35.43:241][422]LogSlate: Window 'World' being destroyed
+[2020.08.01-03.35.43:252][422]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.35.43:252][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.35.48:341][653]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.01-03.35.48:359][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.08.01-03.35.48:361][653]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-03.35.48:361][653]LightingResults: New page: Lighting Build
+[2020.08.01-03.35.48:361][653]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.01-03.35.48:386][653]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.35.48:386][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.35.48:386][653]MapCheck: New page: Map Check
+[2020.08.01-03.35.48:387][653]LightingResults: New page: Lighting Build
+[2020.08.01-03.35.48:404][653]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000163A1C85940), frame # 148653
+[2020.08.01-03.35.48:404][653]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001638EC16800), frame # 148653
+[2020.08.01-03.35.48:407][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.08.01-03.35.48:411][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-03.35.48:411][653]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.01-03.35.48:411][653]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016450C4CA00), frame # 148653
+[2020.08.01-03.35.48:411][653]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016434601F80), frame # 148653
+[2020.08.01-03.35.48:429][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.08.01-03.35.48:449][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-03.35.48:449][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2020.08.01-03.35.48:449][653]LogFileHelpers: Loading map 'MainMenu' took 0.088
+[2020.08.01-03.35.56:014][ 83]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.08.01-03.36.10:769][900]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.36.10:781][900]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.36.10:781][900]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.36.10:781][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.36.18:787][118]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.01-03.36.18:808][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.08.01-03.36.18:810][118]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-03.36.18:810][118]LightingResults: New page: Lighting Build
+[2020.08.01-03.36.18:810][118]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.01-03.36.18:813][118]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.36.18:813][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.36.18:813][118]MapCheck: New page: Map Check
+[2020.08.01-03.36.18:813][118]LightingResults: New page: Lighting Build
+[2020.08.01-03.36.18:829][118]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016434601F80), frame # 150118
+[2020.08.01-03.36.18:829][118]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016450C4CA00), frame # 150118
+[2020.08.01-03.36.18:830][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.08.01-03.36.18:837][118]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.01-03.36.18:837][118]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016471118E00), frame # 150118
+[2020.08.01-03.36.18:837][118]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016451888CC0), frame # 150118
+[2020.08.01-03.36.18:838][118]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-03.36.18:858][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.08.01-03.36.18:880][118]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-03.36.18:880][118]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2020.08.01-03.36.18:880][118]LogFileHelpers: Loading map 'MainMenu' took 0.069
+[2020.08.01-03.36.27:583][615]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.08.01-03.36.55:549][ 74]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.36.55:558][ 74]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.36.55:578][ 74]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.36.55:578][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.37.06:502][478]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/World.World
+[2020.08.01-03.37.06:523][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.08.01-03.37.06:528][478]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-03.37.06:529][478]LightingResults: New page: Lighting Build
+[2020.08.01-03.37.06:529][478]LoadErrors: New page: Loading map: World.umap
+[2020.08.01-03.37.06:529][478]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.37.06:529][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.37.06:530][478]MapCheck: New page: Map Check
+[2020.08.01-03.37.06:530][478]LightingResults: New page: Lighting Build
+[2020.08.01-03.37.06:547][478]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016451888CC0), frame # 152478
+[2020.08.01-03.37.06:547][478]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016471118E00), frame # 152478
+[2020.08.01-03.37.06:549][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.08.01-03.37.06:553][478]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-03.37.06:553][478]LogAIModule: Creating AISystem for world World
+[2020.08.01-03.37.06:553][478]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016416254A00), frame # 152478
+[2020.08.01-03.37.06:553][478]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000164159D3880), frame # 152478
+[2020.08.01-03.37.06:573][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.08.01-03.37.06:594][478]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-03.37.06:594][478]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2020.08.01-03.37.06:594][478]LogFileHelpers: Loading map 'World' took 0.066
+[2020.08.01-03.37.20:634][204]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.01-03.37.20:664][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.08.01-03.37.20:667][204]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-03.37.20:667][204]LightingResults: New page: Lighting Build
+[2020.08.01-03.37.20:667][204]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.01-03.37.20:669][204]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.37.20:669][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.37.20:669][204]MapCheck: New page: Map Check
+[2020.08.01-03.37.20:670][204]LightingResults: New page: Lighting Build
+[2020.08.01-03.37.20:693][204]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000164159D3880), frame # 153204
+[2020.08.01-03.37.20:693][204]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016416254A00), frame # 153204
+[2020.08.01-03.37.20:696][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.08.01-03.37.20:698][204]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-03.37.20:698][204]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.01-03.37.20:698][204]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016416254800), frame # 153204
+[2020.08.01-03.37.20:698][204]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001641DDCCE00), frame # 153204
+[2020.08.01-03.37.20:725][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.01-03.37.20:754][204]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-03.37.20:755][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2020.08.01-03.37.20:755][204]LogFileHelpers: Loading map 'MainMenu' took 0.087
+[2020.08.01-03.37.30:666][764]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.08.01-03.40.07:558][496]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.01-03.40.09:391][603]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.40.09:403][603]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.40.09:447][603]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.40.09:447][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.40.18:772][960]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.08.01-03.45.46:236][543]BlueprintLog: New page: Compile MainMenu
+[2020.08.01-03.45.46:273][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.08.01-03.45.47:205][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset" SILENT=true
+[2020.08.01-03.45.47:346][585]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenu991FC9C64B883A5F5DCF31A5094721AB.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset'
+[2020.08.01-03.45.47:361][585]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.01-03.45.47:361][585]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.08.01-03.45.49:291][701]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.45.49:296][701]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.45.49:301][701]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.45.49:302][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.45.49:325][701]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.45.49:325][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.45.59:107][ 91]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.01-03.45.59:133][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.08.01-03.45.59:136][ 91]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.01-03.45.59:136][ 91]LightingResults: New page: Lighting Build
+[2020.08.01-03.45.59:137][ 91]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.01-03.45.59:138][ 91]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.45.59:138][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.45.59:138][ 91]MapCheck: New page: Map Check
+[2020.08.01-03.45.59:138][ 91]LightingResults: New page: Lighting Build
+[2020.08.01-03.45.59:162][ 91]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001641DDCCE00), frame # 173091
+[2020.08.01-03.45.59:162][ 91]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016416254800), frame # 173091
+[2020.08.01-03.45.59:164][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.08.01-03.45.59:175][ 91]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.01-03.45.59:175][ 91]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000164079D9600), frame # 173091
+[2020.08.01-03.45.59:175][ 91]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000164389F8540), frame # 173091
+[2020.08.01-03.45.59:177][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.01-03.45.59:201][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.08.01-03.45.59:228][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.01-03.45.59:228][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2020.08.01-03.45.59:228][ 91]LogFileHelpers: Loading map 'MainMenu' took 0.092
+[2020.08.01-03.46.31:337][327]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.01-03.46.31:338][327]LogPlayLevel: [PlayLevel] Compiling Coin before play...
+[2020.08.01-03.46.31:397][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.08.01-03.46.31:402][327]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2020.08.01-03.46.31:402][327]PIE: New page: PIE session: MainMenu (2/08/2020, 3:46:31 am)
+[2020.08.01-03.46.31:404][327]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.01-03.46.31:406][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2020.08.01-03.46.31:408][327]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.01-03.46.31:408][327]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001640EDC1C00), frame # 174327
+[2020.08.01-03.46.31:408][327]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001638F0BBD80), frame # 174327
+[2020.08.01-03.46.31:409][327]LogPlayLevel: PIE: World Init took: (0.002563s)
+[2020.08.01-03.46.31:409][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.004725s)
+[2020.08.01-03.46.31:434][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.08.01-03.46.31:436][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.01-03.46.31:436][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.01-03.46.31:436][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.01-03.46.31:436][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.01-03.46.31:436][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.01-03.46.31:436][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.01-03.46.31:436][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.01-03.46.31:436][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.01-03.46.31:438][327]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.01-03.46.31:438][327]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.01-03.46.31:446][327]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.01-03.46.31:446][327]LogAudioMixer: Display: 1: FrontRight
+[2020.08.01-03.46.31:480][327]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.01-03.46.31:481][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.01-03.46.31:482][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.01-03.46.31:482][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.01-03.46.31:483][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.01-03.46.31:499][327]LogInit: FAudioDevice initialized.
+[2020.08.01-03.46.31:557][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-03.46.31:558][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.01-03.46.31:559][327]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.01-15.46.31
+[2020.08.01-03.46.31:560][327]LogWorld: Bringing up level for play took: 0.001658
+[2020.08.01-03.46.31:561][327]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.08.01-03.46.31:579][327]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.01-03.46.31:599][327]PIE: Server logged in
+[2020.08.01-03.46.31:601][327]PIE: Play in editor total start time 0.27 seconds.
+[2020.08.01-03.46.31:603][327]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.31:659][328]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.08.01-03.46.31:664][328]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.31:954][329]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:158][330]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:218][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:234][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:251][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:268][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:285][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:302][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:318][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:334][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:352][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:369][340]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:385][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:402][342]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:418][343]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:435][344]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:452][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:468][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:485][347]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:502][348]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:518][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:536][350]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:552][351]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:569][352]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:585][353]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:601][354]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:618][355]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:635][356]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:651][357]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:668][358]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:685][359]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:702][360]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:719][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:735][362]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:752][363]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:768][364]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:785][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:801][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:818][367]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:835][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:852][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:868][370]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:884][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:902][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:918][373]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:934][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:952][375]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:968][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.32:985][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:002][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:019][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:035][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:051][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:068][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:085][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:102][384]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.33:118][385]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:121][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:144][387]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:160][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:178][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:194][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:210][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:228][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:244][393]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:260][394]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:277][395]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:294][396]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:311][397]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:328][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:345][399]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:361][400]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:378][401]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:394][402]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:411][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:427][404]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:445][405]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:461][406]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:478][407]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:495][408]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:512][409]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:528][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:545][411]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:561][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:578][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:594][414]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:612][415]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:628][416]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:645][417]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:661][418]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:677][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:694][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:711][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:727][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:744][423]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:762][424]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:778][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:795][426]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:811][427]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:828][428]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:845][429]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:861][430]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:878][431]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:895][432]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:911][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:928][434]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:945][435]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:962][436]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:978][437]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.39:995][438]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:011][439]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:028][440]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:044][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:061][442]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:078][443]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:095][444]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:112][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:128][446]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:145][447]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:162][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:178][449]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:196][450]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:211][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:228][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:244][453]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:261][454]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:278][455]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:294][456]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:311][457]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:327][458]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:344][459]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:361][460]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:378][461]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:394][462]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:411][463]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:428][464]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:444][465]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:461][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:478][467]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:494][468]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:511][469]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:527][470]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:545][471]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:561][472]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:578][473]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:595][474]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:610][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:627][476]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:644][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:661][478]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:677][479]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.46.40:698][480]LogNet: Browse: /Game/Levels/World
+[2020.08.01-03.46.40:699][480]LogLoad: LoadMap: /Game/Levels/World
+[2020.08.01-03.46.40:699][480]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.01-03.46.40:701][480]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.46.40:701][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.46.40:737][480]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001638F0BBD80), frame # 174480
+[2020.08.01-03.46.40:737][480]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001640EDC1C00), frame # 174480
+[2020.08.01-03.46.40:740][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.08.01-03.46.40:775][480]LogAIModule: Creating AISystem for world World
+[2020.08.01-03.46.40:775][480]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016438364200), frame # 174480
+[2020.08.01-03.46.40:775][480]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000164222511C0), frame # 174480
+[2020.08.01-03.46.40:775][480]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.01-03.46.40:782][480]LogWorld: Bringing World /Game/Levels/UEDPIE_0_World.World up for play (max tick rate 60) at 2020.08.01-15.46.40
+[2020.08.01-03.46.40:783][480]LogWorld: Bringing up level for play took: 0.006069
+[2020.08.01-03.46.40:790][480]LogLoad: Took 0.090356 seconds to LoadMap(/Game/Levels/World)
+[2020.08.01-03.46.40:791][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.40:816][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.40:952][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.40:971][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.40:996][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:021][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:046][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:072][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:097][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:123][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:149][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:175][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:202][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:228][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:257][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:285][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:314][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:343][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:373][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:403][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:432][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:461][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:490][502]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:520][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:548][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:577][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:607][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:635][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:663][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:692][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:716][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:744][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:773][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:802][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:829][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:855][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:882][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:910][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:940][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:969][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.41:996][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:024][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:052][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:081][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:111][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:140][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:170][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:199][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:228][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:259][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:287][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:317][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:346][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:375][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:404][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:431][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:458][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:485][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:515][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:544][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:573][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:601][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:632][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:661][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:691][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:759][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:771][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:786][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:807][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:837][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:865][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:892][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:922][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:951][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.42:983][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:010][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:038][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:065][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:092][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:120][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:147][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:176][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:206][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:234][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:262][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:290][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:316][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:344][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:372][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:402][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:431][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:458][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:485][572]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:512][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:541][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:571][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:600][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:631][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:661][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:689][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:718][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:746][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:774][582]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:802][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:830][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:858][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:887][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:915][587]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:941][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:969][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.43:998][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:027][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:056][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:087][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:114][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:141][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:168][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:197][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:226][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:256][599]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:285][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:312][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:339][602]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:367][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:395][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:423][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:453][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:482][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:509][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:537][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:565][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:593][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:623][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:652][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:680][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:708][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:738][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:768][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:798][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:827][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:857][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:885][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:916][622]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:946][623]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.44:976][624]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:005][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:037][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:069][627]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:101][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:133][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:166][630]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:198][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:229][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:262][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:293][634]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:323][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:353][636]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:382][637]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:411][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:440][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:469][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:498][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:528][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:557][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:584][644]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:614][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:641][646]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:668][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:696][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:724][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:754][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:780][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:808][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:845][653]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:864][654]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:893][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:923][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:952][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.45:980][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:006][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:033][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:062][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:088][662]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:116][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:144][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:173][665]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:199][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:227][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:255][668]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:282][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:308][670]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:336][671]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:363][672]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:391][673]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:421][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:450][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:477][676]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:505][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:532][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:559][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:590][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:617][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:644][682]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:672][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:699][684]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:726][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:756][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:785][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:814][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:843][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:872][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:902][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:932][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:960][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.46:989][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:017][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:044][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:071][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:097][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:124][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:150][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:177][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:202][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:229][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:256][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:281][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:307][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:337][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:365][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:390][709]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:417][710]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:444][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:471][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:498][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:524][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:551][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:578][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:605][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:632][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:658][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:684][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:710][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:736][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:763][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:789][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:816][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:843][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:872][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.47:903][728]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.01-03.46.47:904][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.01-03.46.50:823][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-03.46.50:830][831]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_World
+[2020.08.01-03.46.50:830][831]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.01-03.46.50:861][831]LogWorld: UWorld::CleanupWorld for World, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.46.50:862][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.46.50:883][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.01-03.46.50:887][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.46.50:964][831]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000164222511C0), frame # 174831
+[2020.08.01-03.46.50:964][831]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016438364200), frame # 174831
+[2020.08.01-03.46.50:967][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.08.01-03.46.51:006][832]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.08.01-03.48.05:536][406]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.08.01-03.48.09:287][606]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.48.09:293][606]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.48.09:293][606]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.48.09:293][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.48.14:488][907]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.08.01-03.48.44:075][279]BlueprintLog: New page: Compile MainMenu
+[2020.08.01-03.48.44:121][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.08.01-03.48.44:832][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset" SILENT=true
+[2020.08.01-03.48.44:933][303]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenuB2D07BB64A8302C9BFEC149C6C772FD0.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/MainMenu.uasset'
+[2020.08.01-03.48.44:950][303]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.01-03.48.44:950][303]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.08.01-03.48.46:917][410]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.48.46:925][410]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.01-03.48.46:930][410]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.48.46:930][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.48.46:952][410]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.48.46:952][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.48.47:993][453]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.08.01-03.48.55:891][883]BlueprintLog: New page: Compile Options
+[2020.08.01-03.48.55:931][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.08.01-03.48.56:606][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/Options.uasset" SILENT=true
+[2020.08.01-03.48.56:651][905]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/OptionsC5DA4967414578D4FF21D3BA0EEC97CA.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/UI/Options.uasset'
+[2020.08.01-03.48.56:666][905]AssetCheck: New page: Asset Save: Options
+[2020.08.01-03.48.56:666][905]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.08.01-03.48.58:439][ 11]LogSlate: Window 'Options' being destroyed
+[2020.08.01-03.48.58:444][ 11]LogSlate: Window 'Options' being destroyed
+[2020.08.01-03.48.58:449][ 11]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.48.58:450][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.48.58:455][ 11]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.48.58:455][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.49.00:776][137]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.01-03.49.00:791][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.01-03.49.00:792][137]PIE: New page: PIE session: MainMenu (2/08/2020, 3:49:00 am)
+[2020.08.01-03.49.00:792][137]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.01-03.49.00:793][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001058s)
+[2020.08.01-03.49.00:794][137]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.01-03.49.00:794][137]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001644429EA00), frame # 179137
+[2020.08.01-03.49.00:794][137]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016417370680), frame # 179137
+[2020.08.01-03.49.00:794][137]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2020.08.01-03.49.00:794][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002213s)
+[2020.08.01-03.49.00:816][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.08.01-03.49.00:817][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.01-03.49.00:817][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.01-03.49.00:817][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.01-03.49.00:817][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.01-03.49.00:817][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.01-03.49.00:817][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.01-03.49.00:817][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.01-03.49.00:817][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.01-03.49.00:818][137]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.01-03.49.00:818][137]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.01-03.49.00:822][137]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.01-03.49.00:822][137]LogAudioMixer: Display: 1: FrontRight
+[2020.08.01-03.49.00:845][137]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.01-03.49.00:846][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.01-03.49.00:846][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.01-03.49.00:846][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.01-03.49.00:846][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.01-03.49.00:855][137]LogInit: FAudioDevice initialized.
+[2020.08.01-03.49.00:905][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.01-03.49.00:906][137]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.01-03.49.00:907][137]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.01-15.49.00
+[2020.08.01-03.49.00:907][137]LogWorld: Bringing up level for play took: 0.000573
+[2020.08.01-03.49.00:907][137]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.08.01-03.49.00:912][137]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.01-03.49.00:914][137]PIE: Server logged in
+[2020.08.01-03.49.00:916][137]PIE: Play in editor total start time 0.127 seconds.
+[2020.08.01-03.49.00:916][137]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.00:983][138]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:007][139]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:059][140]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:112][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:128][142]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:145][143]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:162][144]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:178][145]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:195][146]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:212][147]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:228][148]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:245][149]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:261][150]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:277][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:295][152]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:311][153]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:327][154]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:344][155]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:361][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:377][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:394][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:411][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:428][160]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:445][161]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:461][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:478][163]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:495][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:511][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:528][166]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:545][167]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:562][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:578][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:594][170]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:612][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:628][172]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:645][173]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:662][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:678][175]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:695][176]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:712][177]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:728][178]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:745][179]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:762][180]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:778][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:795][182]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:812][183]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:828][184]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:844][185]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:861][186]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:878][187]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:894][188]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:912][189]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:928][190]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:944][191]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:961][192]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:978][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.01:994][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:011][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:028][196]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:045][197]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:061][198]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:078][199]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:094][200]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:111][201]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:128][202]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:144][203]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:161][204]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:177][205]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:194][206]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:212][207]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:228][208]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:245][209]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:261][210]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:278][211]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:294][212]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:311][213]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:327][214]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:344][215]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:361][216]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:378][217]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:394][218]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:411][219]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:428][220]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:444][221]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:461][222]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:478][223]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:494][224]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:511][225]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:528][226]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:544][227]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:561][228]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:578][229]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:594][230]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:611][231]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:627][232]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:644][233]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:661][234]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:677][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:695][236]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:711][237]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:728][238]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:744][239]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:761][240]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:777][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:795][242]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:811][243]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:827][244]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:844][245]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.02:861][246]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.03:903][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.03:908][248]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.03:925][249]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.03:941][250]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.03:958][251]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.03:975][252]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.03:991][253]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:008][254]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:024][255]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:041][256]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:059][257]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:074][258]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:092][259]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:108][260]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:125][261]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:142][262]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:158][263]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:175][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:192][265]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:208][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:224][267]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:241][268]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:258][269]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:275][270]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:291][271]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:308][272]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:325][273]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:341][274]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:358][275]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:374][276]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:392][277]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:408][278]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:425][279]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:442][280]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:458][281]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:474][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:492][283]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:508][284]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:525][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:542][286]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:559][287]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:575][288]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:592][289]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:608][290]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:625][291]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:642][292]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:658][293]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:675][294]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:691][295]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:708][296]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:725][297]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:741][298]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:759][299]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:775][300]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:792][301]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:809][302]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:825][303]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:842][304]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:858][305]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:874][306]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:891][307]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:908][308]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:924][309]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:941][310]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:958][311]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:974][312]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.04:991][313]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:008][314]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:025][315]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:042][316]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:059][317]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:074][318]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:092][319]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:109][320]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:125][321]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:142][322]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:158][323]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:175][324]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:191][325]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:208][326]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:225][327]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:241][328]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:258][329]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:275][330]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:292][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:309][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:325][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:342][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:359][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.05:375][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:050][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:056][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:072][339]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:089][340]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:106][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:123][342]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:140][343]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:156][344]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:173][345]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:190][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:206][347]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:223][348]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:241][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:257][350]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:288][351]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:304][352]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:321][353]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:337][354]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:354][355]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:371][356]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:388][357]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:404][358]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:421][359]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:438][360]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:455][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:472][362]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:487][363]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:504][364]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:521][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:538][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:554][367]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:571][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:587][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:604][370]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:621][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:638][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:654][373]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:671][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:687][375]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:704][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:721][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:738][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:755][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:771][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:787][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:804][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:821][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:838][384]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:854][385]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:871][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:888][387]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:904][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:921][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:938][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:954][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:971][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.07:988][393]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:004][394]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:021][395]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:037][396]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:054][397]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:071][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:087][399]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:104][400]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:121][401]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:138][402]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:154][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:171][404]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:187][405]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:204][406]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:220][407]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:238][408]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:254][409]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:270][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:288][411]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:304][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:321][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:338][414]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:354][415]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:371][416]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:388][417]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:404][418]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:421][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:438][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:454][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:471][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:487][423]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:504][424]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:520][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:537][426]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:554][427]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:571][428]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:587][429]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:605][430]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:620][431]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:637][432]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:654][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:671][434]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:687][435]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:704][436]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:721][437]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:737][438]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:754][439]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:771][440]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:788][441]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:804][442]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:821][443]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:837][444]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:854][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:870][446]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:887][447]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:904][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:920][449]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:938][450]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:955][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.01-03.49.08:971][452]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.01-03.49.08:979][452]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.01-03.49.08:979][452]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.01-03.49.08:979][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.49.08:989][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.01-03.49.08:992][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.01-03.49.09:030][452]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016417370680), frame # 179452
+[2020.08.01-03.49.09:030][452]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001644429EA00), frame # 179452
+[2020.08.01-03.49.09:032][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.08.01-03.49.09:162][454]LogPlayLevel: Display: Destroying online subsystem :Context_35
