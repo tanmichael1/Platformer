@@ -2029,3 +2029,1877 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.02-09.44.53:930][168]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275A7643D80), frame # 6168
 [2020.08.02-09.44.53:944][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
 [2020.08.02-09.44.53:979][169]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.08.02-09.45.56:221][358]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/EndScreen.EndScreen
+[2020.08.02-09.46.18:936][ 60]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/UMG/Editor' is outside repository
+[2020.08.02-09.46.20:156][ 98]LogSlate: Took 0.012614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.02-09.48.13:926][917]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Clicked (QuitButton)  and was replaced as a Custom Event!
+[2020.08.02-09.49.09:321][ 15]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Clicked (PlayButton)  and was replaced as a Custom Event!
+[2020.08.02-09.50.12:405][422]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Clicked (RestartButton)  and was replaced as a Custom Event!
+[2020.08.02-09.50.33:659][319]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.02-09.51.09:108][ 74]BlueprintLog: New page: Compile EndScreen
+[2020.08.02-09.51.09:231][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.08.02-09.51.22:975][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/EndScreen" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Widgets/EndScreen.uasset" SILENT=true
+[2020.08.02-09.51.23:026][351]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/EndScreen9FCF88F449893C8AEEFB6B906CBF7E39.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Widgets/EndScreen.uasset'
+[2020.08.02-09.51.23:405][351]AssetCheck: New page: Asset Save: EndScreen
+[2020.08.02-09.51.23:405][351]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/EndScreen.EndScreen
+[2020.08.02-09.51.35:301][643]LogEditorViewport: Clicking on Actor (LMB): Coin_C (Coin)
+[2020.08.02-09.51.55:924][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2020.08.02-09.51.56:265][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedBox" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/RedBox.uasset" SILENT=true
+[2020.08.02-09.51.56:377][ 52]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/RedBox4683102D41126559BCA064B503E0E361.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/RedBox.uasset'
+[2020.08.02-09.51.57:489][ 52]AssetCheck: New page: Asset Save: RedBox
+[2020.08.02-09.51.57:489][ 52]LogContentValidation: Display: Validating Blueprint /Game/RedBox.RedBox
+[2020.08.02-09.52.11:803][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.08.02-09.52.11:807][448]LogMetaData: Removing '/Game/FinalBox.SKEL_FinalBox_C' ref from Metadata '/Game/RedBox.PackageMetaData'
+[2020.08.02-09.52.11:807][448]LogMetaData: Removing '/Game/FinalBox.FinalBox_C' ref from Metadata '/Game/RedBox.PackageMetaData'
+[2020.08.02-09.52.11:973][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalBox" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset" SILENT=true
+[2020.08.02-09.52.12:061][448]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/FinalBoxB32E0FFE412BA3F5F016E493B79C7B43.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset'
+[2020.08.02-09.52.13:175][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.08.02-09.52.13:233][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.02-09.52.13:270][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.02-09.52.13:604][448]SourceControl: rm 'Platformer/Content/RedBox.uasset'
+[2020.08.02-09.52.13:692][448]AssetCheck: New page: Asset Save: FinalBox
+[2020.08.02-09.52.13:692][448]LogContentValidation: Display: Validating Blueprint /Game/FinalBox.FinalBox
+[2020.08.02-09.52.15:250][466]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FinalBox.FinalBox
+[2020.08.02-09.52.53:788][296]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.08.02-09.52.54:193][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.08.02-09.52.54:226][296]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/MainMenu_2C8C92FE3444711D768AB6DA61B88115F.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu_2.umap'
+[2020.08.02-09.52.54:598][296]LogFileHelpers: Saving map 'MainMenu_2' took 0.453
+[2020.08.02-09.52.55:291][296]AssetCheck: New page: Asset Save: MainMenu_2
+[2020.08.02-09.52.55:291][296]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_2.MainMenu_2
+[2020.08.02-09.53.09:141][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.08.02-09.53.09:143][638]LogMetaData: Removing '/Game/Levels/EndOfGame.SKEL_EndOfGame_C' ref from Metadata '/Game/Levels/MainMenu_2.PackageMetaData'
+[2020.08.02-09.53.09:144][638]LogMetaData: Removing '/Game/Levels/EndOfGame.EndOfGame_C' ref from Metadata '/Game/Levels/MainMenu_2.PackageMetaData'
+[2020.08.02-09.53.09:243][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.02-09.53.09:271][638]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/EndOfGameBDADCCB94911DAFA497452A36B23BBB8.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/EndOfGame.umap'
+[2020.08.02-09.53.09:624][638]LogFileHelpers: Saving map 'EndOfGame' took 0.419
+[2020.08.02-09.53.10:320][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.08.02-09.53.10:373][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.08.02-09.53.10:407][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.08.02-09.53.10:720][638]SourceControl: rm 'Platformer/Content/Levels/MainMenu_2.umap'
+[2020.08.02-09.53.10:789][638]AssetCheck: New page: Asset Save: EndOfGame
+[2020.08.02-09.53.10:789][638]LogContentValidation: Display: Validating World /Game/Levels/EndOfGame.EndOfGame
+[2020.08.02-09.53.12:892][677]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EndOfGame.EndOfGame
+[2020.08.02-09.53.12:984][677]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.08.02-09.53.14:859][677]LogSlate: Window 'Save Content' being destroyed
+[2020.08.02-09.53.15:070][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.08.02-09.53.15:191][677]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/ThirdPersonExampleMap85BA77D7457CB3B9C4F715AD96C7994E.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.02-09.53.15:235][677]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.203
+[2020.08.02-09.53.15:499][677]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataDB3935E1426E3C1515DC73BD9422E359.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.02-09.53.15:504][677]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/EndOfGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.02-09.53.15:504][677]LightingResults: New page: Lighting Build
+[2020.08.02-09.53.15:504][677]LoadErrors: New page: Loading map: EndOfGame.umap
+[2020.08.02-09.53.15:506][677]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-09.53.15:506][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-09.53.15:506][677]MapCheck: New page: Map Check
+[2020.08.02-09.53.15:506][677]LightingResults: New page: Lighting Build
+[2020.08.02-09.53.15:541][677]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275437AC600), frame # 23677
+[2020.08.02-09.53.15:541][677]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027543787B00), frame # 23677
+[2020.08.02-09.53.15:545][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.08.02-09.53.15:583][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.08.02-09.53.15:620][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.08.02-09.53.15:621][677]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.02-09.53.15:622][677]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.02-09.53.15:622][677]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275EC6F8200), frame # 23677
+[2020.08.02-09.53.15:623][677]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275AAAB65C0), frame # 23677
+[2020.08.02-09.53.15:660][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.08.02-09.53.15:692][677]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.02-09.53.15:693][677]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2020.08.02-09.53.15:693][677]LogFileHelpers: Loading map 'EndOfGame' took 0.189
+[2020.08.02-09.53.15:737][677]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-09.53.15:737][677]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.02-09.53.15:771][677]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.02-09.53.20:880][812]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.02-09.53.20:933][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.08.02-09.53.20:935][812]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.02-09.53.20:935][812]LightingResults: New page: Lighting Build
+[2020.08.02-09.53.20:935][812]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.02-09.53.20:937][812]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-09.53.20:937][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-09.53.20:937][812]MapCheck: New page: Map Check
+[2020.08.02-09.53.20:937][812]LightingResults: New page: Lighting Build
+[2020.08.02-09.53.20:982][812]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275AAAB65C0), frame # 23812
+[2020.08.02-09.53.20:982][812]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275EC6F8200), frame # 23812
+[2020.08.02-09.53.20:986][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.08.02-09.53.21:041][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.08.02-09.53.21:088][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.08.02-09.53.21:093][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.02-09.53.21:093][812]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.02-09.53.21:093][812]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027581421400), frame # 23812
+[2020.08.02-09.53.21:093][812]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275CF5C1940), frame # 23812
+[2020.08.02-09.53.21:139][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.08.02-09.53.21:170][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.02-09.53.21:171][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.211ms to complete.
+[2020.08.02-09.53.21:171][812]LogFileHelpers: Loading map 'MainMenu' took 0.235
+[2020.08.02-09.53.40:774][724]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.08.02-09.53.54:327][ 86]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EndOfGame.EndOfGame
+[2020.08.02-09.53.54:385][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.08.02-09.53.54:388][ 86]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/EndOfGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.02-09.53.54:388][ 86]LightingResults: New page: Lighting Build
+[2020.08.02-09.53.54:388][ 86]LoadErrors: New page: Loading map: EndOfGame.umap
+[2020.08.02-09.53.54:449][ 86]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-09.53.54:449][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-09.53.54:507][ 86]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-09.53.54:507][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-09.53.54:507][ 86]MapCheck: New page: Map Check
+[2020.08.02-09.53.54:507][ 86]LightingResults: New page: Lighting Build
+[2020.08.02-09.53.54:555][ 86]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275CF5C1940), frame # 25086
+[2020.08.02-09.53.54:555][ 86]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027581421400), frame # 25086
+[2020.08.02-09.53.54:559][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.08.02-09.53.54:564][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.02-09.53.54:564][ 86]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.02-09.53.54:564][ 86]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027581421E00), frame # 25086
+[2020.08.02-09.53.54:564][ 86]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002760FA4DA80), frame # 25086
+[2020.08.02-09.53.54:614][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.08.02-09.53.54:645][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.02-09.53.54:645][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2020.08.02-09.53.54:645][ 86]LogFileHelpers: Loading map 'EndOfGame' took 0.258
+[2020.08.02-09.54.04:944][630]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/EndOfGame.EndOfGame:PersistentLevel.EndOfGame
+[2020.08.02-09.54.30:686][327]BlueprintLog: New page: Compile EndOfGame
+[2020.08.02-09.54.30:795][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.08.02-09.55.11:730][494]LogEditorTransaction: Undo Move Node
+[2020.08.02-09.55.11:773][494]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.55.11:802][494]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-09.55.11:802][494]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.02-09.55.11:802][494]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-09.55.11:802][494]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.02-09.55.12:957][523]LogEditorTransaction: Undo Delete current selection
+[2020.08.02-09.55.13:006][523]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.55.13:342][529]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.02-09.55.13:714][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.02-09.55.13:882][538]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.08.02-09.55.13:921][539]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.08.02-09.55.14:865][555]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.08.02-09.55.14:981][557]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-09.55.15:308][563]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.02-09.55.15:424][565]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.02-09.55.16:536][584]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.08.02-09.55.16:820][589]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-09.55.16:908][591]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-09.55.20:008][679]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.02-09.55.20:008][679]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.08.02-09.55.20:008][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.02-09.55.20:008][679]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-09.55.20:008][679]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.02-09.55.35:998][ 98]BlueprintLog: New page: Compile FinalBox
+[2020.08.02-09.55.36:125][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2020.08.02-09.55.49:016][414]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2020.08.02-09.55.49:074][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.08.02-09.55.51:029][414]LogSlate: Window 'Save Content' being destroyed
+[2020.08.02-09.55.51:378][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalBox" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset" SILENT=true
+[2020.08.02-09.55.51:457][414]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/FinalBox11894E0B4522259E7FD7A0877D04B1D8.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset'
+[2020.08.02-09.55.51:501][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.08.02-09.55.51:547][414]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/EndOfGameD261D6504C319C13294C60A0A64178C7.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/EndOfGame.umap'
+[2020.08.02-09.55.51:596][414]LogFileHelpers: Saving map 'EndOfGame' took 0.135
+[2020.08.02-09.55.51:596][414]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.02-09.55.51:596][414]LightingResults: New page: Lighting Build
+[2020.08.02-09.55.51:596][414]LoadErrors: New page: Loading map: Level2.umap
+[2020.08.02-09.55.51:622][414]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-09.55.51:623][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-09.55.51:665][414]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-09.55.51:665][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-09.55.51:665][414]MapCheck: New page: Map Check
+[2020.08.02-09.55.51:665][414]LightingResults: New page: Lighting Build
+[2020.08.02-09.55.51:702][414]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002760FA4DA80), frame # 28414
+[2020.08.02-09.55.51:703][414]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027581421E00), frame # 28414
+[2020.08.02-09.55.51:706][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.08.02-09.55.51:715][414]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.02-09.55.51:715][414]LogAIModule: Creating AISystem for world Level2
+[2020.08.02-09.55.51:715][414]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002755ACAB400), frame # 28414
+[2020.08.02-09.55.51:715][414]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275C72DFB00), frame # 28414
+[2020.08.02-09.55.51:770][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.08.02-09.55.51:801][414]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.02-09.55.51:801][414]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2020.08.02-09.55.51:801][414]LogFileHelpers: Loading map 'Level2' took 0.205
+[2020.08.02-09.55.51:863][414]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-09.55.51:863][414]LogContentValidation: Display: Validating Blueprint /Game/FinalBox.FinalBox
+[2020.08.02-09.55.51:864][414]LogContentValidation: Display: Validating World /Game/Levels/EndOfGame.EndOfGame
+[2020.08.02-09.56.17:708][898]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-09.56.17:725][898]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.02-09.56.17:725][898]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.02-09.56.17:725][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.02-09.56.17:725][898]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.02-09.56.17:731][898]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.56.19:973][926]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-09.56.20:153][929]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.08.02-09.56.20:189][929]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.56.20:233][929]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-09.56.20:265][929]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-09.56.20:277][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.08.02-09.56.20:284][929]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.56.20:320][929]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-09.56.20:333][929]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.08.02-09.56.20:338][929]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.56.20:368][929]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-09.56.20:387][929]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.56.20:405][929]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.02-09.56.22:087][949]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.08.02-09.56.22:208][951]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.08.02-09.56.22:475][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.08.02-09.56.22:609][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.08.02-09.56.23:403][965]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-09.56.23:836][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.08.02-09.56.23:994][972]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-09.56.24:108][972]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-09.56.25:156][985]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2020.08.02-09.56.26:573][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.02-09.56.26:573][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.02-09.56.26:573][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.02-09.56.26:573][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.08.02-09.56.26:573][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.02-09.56.26:573][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.02-09.56.26:573][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-09.56.26:593][985]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.56.26:668][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.08.02-09.56.26:702][985]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.56.26:934][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2020.08.02-09.56.26:941][985]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.08.02-09.56.26:955][985]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-09.56.27:524][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2020.08.02-09.56.27:524][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2020.08.02-09.56.27:524][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2020.08.02-09.56.28:085][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2020.08.02-09.56.28:085][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 75
+[2020.08.02-09.56.28:085][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2020.08.02-09.56.28:645][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 73
+[2020.08.02-09.56.28:645][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.08.02-09.56.28:645][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2020.08.02-09.56.28:645][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2020.08.02-09.56.28:645][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2020.08.02-09.56.28:998][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.08.02-09.56.28:998][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.08.02-09.56.28:998][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.08.02-09.56.28:998][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.08.02-09.56.29:002][985]TextureStreamingBuild: Display: Compiling optional shaders took 2.058 seconds.
+[2020.08.02-09.56.29:063][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.08.02-09.56.29:389][985]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2020.08.02-09.56.33:920][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.08.02-09.56.33:920][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.08.02-09.56.33:920][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.08.02-09.56.33:920][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.02-09.56.35:603][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.02-09.56.36:164][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.02-09.56.36:725][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.02-09.56.37:286][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.02-09.56.37:286][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.02-09.56.37:681][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2020.08.02-09.56.37:739][985]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/BasicShapeMaterial6670B5854D652927283F8F9C65ACA276.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2020.08.02-09.56.37:785][985]AssetCheck: New page: Asset Save: BasicShapeMaterial
+[2020.08.02-09.56.37:785][985]LogContentValidation: Display: Validating Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2020.08.02-09.56.37:790][985]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.02-09.56.37:790][985]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.08.02-09.56.37:790][985]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.02-09.56.37:790][985]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-09.56.37:790][985]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.02-09.56.38:026][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2020.08.02-09.57.02:270][366]Cmd: TRANSACTION UNDO
+[2020.08.02-09.57.02:273][366]LogEditorTransaction: Undo Edit Default Value
+[2020.08.02-09.57.02:373][366]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.57.02:412][366]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-09.57.02:412][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.02-09.57.02:413][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-09.57.02:413][366]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.02-09.57.02:416][366]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.57.02:450][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-09.57.04:368][409]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.08.02-09.57.04:880][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.08.02-09.57.04:962][414]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.08.02-09.57.05:118][416]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.08.02-09.57.06:224][427]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.02-09.57.06:257][427]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.02-09.57.06:485][429]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.08.02-09.57.06:619][431]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.08.02-09.57.07:683][442]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-09.57.07:988][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.02-09.57.08:098][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.02-09.57.08:298][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.02-09.57.09:144][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.02-09.57.09:396][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.02-09.57.09:454][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.02-09.57.09:648][460]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.02-09.57.09:648][460]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.08.02-09.57.09:648][460]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.02-09.57.09:648][460]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-09.57.09:648][460]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.02-09.57.39:617][934]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.57.39:652][934]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-09.57.39:652][934]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.02-09.57.39:652][934]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-09.57.39:652][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.02-09.57.39:652][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-09.57.39:671][934]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.02-09.57.41:312][955]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2020.08.02-09.57.42:804][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.02-09.57.42:805][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.02-09.57.42:805][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.08.02-09.57.42:805][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.08.02-09.57.42:829][955]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.57.42:917][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.02-09.57.42:943][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.08.02-09.57.42:963][955]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.08.02-09.57.43:216][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2020.08.02-09.57.43:216][955]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2020.08.02-09.57.43:230][955]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-09.57.43:799][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.08.02-09.57.43:799][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2020.08.02-09.57.43:799][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2020.08.02-09.57.44:360][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2020.08.02-09.57.44:360][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2020.08.02-09.57.44:360][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2020.08.02-09.57.44:921][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2020.08.02-09.57.44:921][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2020.08.02-09.57.44:921][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2020.08.02-09.57.45:482][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 73
+[2020.08.02-09.57.45:482][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 72
+[2020.08.02-09.57.45:482][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2020.08.02-09.57.45:482][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2020.08.02-09.57.46:043][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2020.08.02-09.57.46:043][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.08.02-09.57.46:043][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.08.02-09.57.46:043][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.08.02-09.57.46:043][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2020.08.02-09.57.46:049][955]TextureStreamingBuild: Display: Compiling optional shaders took 2.829 seconds.
+[2020.08.02-09.57.46:112][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.08.02-09.57.46:441][955]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2020.08.02-09.57.52:089][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.08.02-09.57.52:650][955]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.08.02-09.57.52:650][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.08.02-09.57.52:650][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.02-09.57.55:456][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.08.02-09.57.56:578][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.02-09.57.57:140][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.02-09.57.57:700][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.02-09.57.58:129][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.02-09.57.58:514][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2020.08.02-09.57.58:571][955]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/BasicShapeMaterial815D2DF642A0F9017A639F8AFE365B51.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2020.08.02-09.57.58:599][955]AssetCheck: New page: Asset Save: BasicShapeMaterial
+[2020.08.02-09.57.58:599][955]LogContentValidation: Display: Validating Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2020.08.02-09.57.58:613][955]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.02-09.57.58:613][955]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.08.02-09.57.58:613][955]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.02-09.57.58:613][955]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-09.57.58:613][955]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.02-09.57.58:969][957]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2020.08.02-09.58.14:343][170]BlueprintLog: New page: Compile FinalBox
+[2020.08.02-09.58.14:466][170]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2020.08.02-09.58.18:763][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalBox" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset" SILENT=true
+[2020.08.02-09.58.18:814][220]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/FinalBox3C739DFB4EF8387C08F4EFB3DFC8B826.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset'
+[2020.08.02-09.58.18:836][220]AssetCheck: New page: Asset Save: FinalBox
+[2020.08.02-09.58.18:836][220]LogContentValidation: Display: Validating Blueprint /Game/FinalBox.FinalBox
+[2020.08.02-09.58.20:181][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalBox" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset" SILENT=true
+[2020.08.02-09.58.20:230][241]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/FinalBox30AE41DB40C7180EBF5D38BB1F139545.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset'
+[2020.08.02-09.58.20:247][241]AssetCheck: New page: Asset Save: FinalBox
+[2020.08.02-09.58.20:247][241]LogContentValidation: Display: Validating Blueprint /Game/FinalBox.FinalBox
+[2020.08.02-09.59.40:521][970]LogSlate: Window 'Save Asset As' being destroyed
+[2020.08.02-09.59.57:969][298]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+[2020.08.02-09.59.57:971][298]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.08.02-09.59.58:116][298]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.08.02-09.59.58:129][298]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.08.02-09.59.58:147][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-09.59.58:147][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.02-09.59.58:147][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-09.59.58:147][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.02-09.59.58:148][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.02-09.59.59:993][326]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.02-10.00.00:573][348]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.02-10.00.00:622][350]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.08.02-10.00.00:803][357]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.08.02-10.00.02:763][397]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.08.02-10.00.03:269][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.00.03:354][405]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.02-10.00.03:420][406]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.02-10.00.04:829][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.08.02-10.00.04:960][425]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.02-10.00.05:350][429]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-10.00.05:796][434]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.08.02-10.00.05:796][434]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2020.08.02-10.00.05:796][434]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.08.02-10.00.05:796][434]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-10.00.05:796][434]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.02-10.00.06:312][439]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.00.06:313][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.00.36:204][814]LogSlate: Window 'Save Asset As' being destroyed
+[2020.08.02-10.00.41:244][875]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/EndLevel.EndLevel
+[2020.08.02-10.00.41:249][875]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.00.41:399][875]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.00.41:411][875]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.00.41:429][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.00.41:429][875]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.00.41:429][875]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.00.41:429][875]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.00.43:401][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.02-10.00.43:965][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.02-10.00.44:224][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.02-10.00.44:258][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.00.45:014][933]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.02-10.00.50:746][179]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.00.50:769][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.00.50:769][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.00.50:769][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.00.50:769][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.00.50:771][179]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.00.50:773][179]LogMaterial: Warning: /Engine/Transient.EndLevel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.02-10.00.50:773][179]LogMaterial: Display: 	Function LinearTosRGB: Missing function input 'Linear'
+[2020.08.02-10.00.50:773][179]LogMaterial: Display: 	Function LinearTosRGB: (Node If) If input A must be of type float.
+[2020.08.02-10.00.50:779][179]MaterialEditorStats: Error: [SM5] Function LinearTosRGB: Missing function input 'Linear'
+[2020.08.02-10.00.50:780][179]MaterialEditorStats: Error: [SM5] Function LinearTosRGB: (Node If) If input A must be of type float.
+[2020.08.02-10.00.50:897][180]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.08.02-10.00.51:441][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.02-10.00.51:691][182]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.02-10.00.51:799][182]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-10.01.05:117][375]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.01.05:118][375]LogMaterial: Warning: /Engine/Transient.EndLevel (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.02-10.01.05:118][375]LogMaterial: Display: 	Function LinearTosRGB: Missing function input 'Linear'
+[2020.08.02-10.01.05:119][375]LogMaterial: Display: 	Function LinearTosRGB: (Node If) If input A must be of type float.
+[2020.08.02-10.01.05:134][375]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-10.01.05:188][376]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.02-10.01.05:189][376]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.02-10.01.05:189][376]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.02-10.01.05:189][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.02-10.01.08:329][422]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.01.08:350][422]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-10.01.08:413][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.01.08:413][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.01.08:413][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.01.08:413][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.01.09:282][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-10.01.09:625][453]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.01.09:917][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.08.02-10.01.09:987][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.01.10:672][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.02-10.01.10:943][475]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.02-10.01.11:394][489]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.02-10.01.11:401][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.02-10.01.11:494][494]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.02-10.01.11:767][501]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.01.11:788][501]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-10.01.11:800][501]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-10.01.12:558][511]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.08.02-10.01.12:621][512]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.02-10.01.12:704][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.02-10.01.13:679][544]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-10.01.13:827][546]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.02-10.01.14:265][552]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.02-10.01.14:661][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.02-10.01.15:101][561]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.02-10.01.15:697][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.02-10.01.16:197][574]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.02-10.01.16:242][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.01.16:409][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-10.01.17:999][624]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.01.18:036][624]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.01.18:036][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.01.18:036][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.01.18:036][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.01.18:036][624]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-10.01.18:998][639]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.01.19:038][639]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-10.01.19:062][639]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.02-10.01.19:650][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.08.02-10.01.20:157][652]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.08.02-10.01.20:386][657]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.02-10.01.20:618][660]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.02-10.01.21:885][675]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.08.02-10.01.22:169][678]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.01.22:276][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.01.22:919][688]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.02-10.01.23:664][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.02-10.01.24:217][703]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.08.02-10.01.24:543][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.08.02-10.01.25:004][713]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.02-10.01.25:103][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-10.01.25:209][715]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.02-10.01.25:209][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.02-10.01.25:209][715]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-10.01.25:209][715]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.02-10.01.41:856][ 28]LogMaterialEditor: Saving and Compiling material EndLevel
+[2020.08.02-10.01.42:604][ 28]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.01.42:637][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.01.42:637][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.01.42:637][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.01.42:637][ 28]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.01.42:663][ 28]LogMaterial: Display: Missing cached shader map for material EndLevel, compiling. 
+[2020.08.02-10.01.42:759][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2020.08.02-10.01.42:774][ 28]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.01.43:337][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.08.02-10.01.43:337][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.08.02-10.01.43:896][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.08.02-10.01.43:896][ 28]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.08.02-10.01.43:896][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.08.02-10.01.43:896][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.08.02-10.01.44:419][ 28]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.08.02-10.01.44:419][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.08.02-10.01.44:419][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.08.02-10.01.44:419][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.01.44:419][ 28]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.02-10.01.44:423][ 28]TextureStreamingBuild: Display: Compiling optional shaders took 1.658 seconds.
+[2020.08.02-10.01.44:491][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.08.02-10.01.46:005][ 28]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.02-10.01.46:005][ 28]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.01.46:356][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.02-10.01.46:660][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndLevel" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/EndLevel.uasset" SILENT=true
+[2020.08.02-10.01.46:715][ 28]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/EndLevel6FF6F491445E5E44C46EB4B0F6F29A1A.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/EndLevel.uasset'
+[2020.08.02-10.01.47:212][ 28]AssetCheck: New page: Asset Save: EndLevel
+[2020.08.02-10.01.47:212][ 28]LogContentValidation: Display: Validating Material /Game/EndLevel.EndLevel
+[2020.08.02-10.01.47:221][ 28]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.02-10.01.47:221][ 28]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.02-10.01.47:221][ 28]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-10.01.47:221][ 28]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.02-10.01.57:992][324]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.08.02-10.01.58:094][324]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.08.02-10.01.58:094][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.08.02-10.01.58:094][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.08.02-10.01.58:094][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.02-10.01.58:608][338]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.08.02-10.01.58:705][339]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.08.02-10.01.58:814][340]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.08.02-10.02.05:429][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2020.08.02-10.02.06:840][481]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.08.02-10.02.06:948][483]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2020.08.02-10.02.07:729][494]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.08.02-10.02.13:594][601]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.08.02-10.02.15:090][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2020.08.02-10.02.15:478][601]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.08.02-10.02.15:866][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.08.02-10.02.16:097][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/EndLevel" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Materials/EndLevel.uasset" SILENT=true
+[2020.08.02-10.02.16:134][601]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/EndLevel64FFED7042041D2F2E0E428663256367.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Materials/EndLevel.uasset'
+[2020.08.02-10.02.18:135][601]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.08.02-10.02.18:226][601]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.08.02-10.02.18:294][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.02-10.02.18:874][601]SourceControl: rm 'Platformer/Content/EndLevel.uasset'
+[2020.08.02-10.02.19:024][601]AssetCheck: New page: Asset Save: EndLevel
+[2020.08.02-10.02.19:024][601]LogContentValidation: Display: Validating Material /Game/Materials/EndLevel.EndLevel
+[2020.08.02-10.02.20:721][622]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.08.02-10.02.21:502][634]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.08.02-10.02.22:788][656]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.08.02-10.02.23:843][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.02.26:430][701]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.02-10.02.26:795][702]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.02-10.02.26:930][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.02-10.02.27:643][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.02-10.02.37:522][907]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.02-10.02.37:565][907]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.02-10.02.37:567][907]LogPlayLevel: [PlayLevel] Compiling FinalBox before play...
+[2020.08.02-10.02.37:739][907]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2020.08.02-10.02.37:743][907]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2020.08.02-10.02.37:743][907]PIE: New page: PIE session: Level2 (3/08/2020, 10:02:37 am)
+[2020.08.02-10.02.37:743][907]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.37:764][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020782s)
+[2020.08.02-10.02.37:766][907]LogAIModule: Creating AISystem for world Level2
+[2020.08.02-10.02.37:766][907]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275FA76A600), frame # 34907
+[2020.08.02-10.02.37:766][907]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275F2CF7D80), frame # 34907
+[2020.08.02-10.02.37:766][907]LogPlayLevel: PIE: World Init took: (0.001857s)
+[2020.08.02-10.02.37:766][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.022911s)
+[2020.08.02-10.02.37:830][907]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.08.02-10.02.37:831][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.02-10.02.37:831][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.02-10.02.37:831][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.02-10.02.37:831][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.02-10.02.37:831][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.02-10.02.37:831][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.02-10.02.37:831][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.02-10.02.37:832][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.02-10.02.37:832][907]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.02-10.02.37:832][907]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.02-10.02.37:850][907]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.02-10.02.37:850][907]LogAudioMixer: Display: 1: FrontRight
+[2020.08.02-10.02.37:896][907]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.02-10.02.37:897][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.02-10.02.37:897][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.02-10.02.37:897][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.02-10.02.37:897][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.02-10.02.37:916][907]LogInit: FAudioDevice initialized.
+[2020.08.02-10.02.38:006][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.02-10.02.38:007][907]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.38:011][907]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.02-22.02.38
+[2020.08.02-10.02.38:012][907]LogWorld: Bringing up level for play took: 0.003916
+[2020.08.02-10.02.38:012][907]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.08.02-10.02.38:024][907]PIE: Server logged in
+[2020.08.02-10.02.38:029][907]PIE: Play in editor total start time 0.473 seconds.
+[2020.08.02-10.02.38:030][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.38:289][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.38:814][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.38:834][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.38:949][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.38:986][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:024][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:060][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:100][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:150][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:200][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:250][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:288][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:326][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:367][921]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:407][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:449][923]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:490][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:532][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:572][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:613][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:656][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:758][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:794][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:836][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:878][932]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:920][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.39:963][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:004][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:045][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:087][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:130][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:171][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:214][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:255][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:300][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:344][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:388][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:433][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:477][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:522][947]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:565][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:608][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:649][950]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:694][951]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:738][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:784][953]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:834][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:882][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:930][956]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.40:981][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.41:035][958]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.41:091][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.41:144][960]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.02-10.02.41:145][960]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.02-10.02.41:145][960]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.41:147][960]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.41:149][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.41:273][960]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275F2CF7D80), frame # 34960
+[2020.08.02-10.02.41:274][960]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275FA76A600), frame # 34960
+[2020.08.02-10.02.41:289][960]LogUObjectHash: Compacting FUObjectHashTables data took  13.71ms
+[2020.08.02-10.02.41:294][960]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.41:299][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004550s)
+[2020.08.02-10.02.41:302][960]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.02-10.02.41:303][960]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275F90D5200), frame # 34960
+[2020.08.02-10.02.41:303][960]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275F2CF5300), frame # 34960
+[2020.08.02-10.02.41:304][960]LogPlayLevel: PIE: World Init took: (0.004041s)
+[2020.08.02-10.02.41:304][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EndOfGame.EndOfGame to /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame (0.009226s)
+[2020.08.02-10.02.41:304][960]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.41:306][960]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.02-22.02.41
+[2020.08.02-10.02.41:307][960]LogWorld: Bringing up level for play took: 0.000883
+[2020.08.02-10.02.41:308][960]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.02-10.02.41:320][960]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.02-10.02.41:325][960]LogLoad: Took 0.179791 seconds to LoadMap(/Game/Levels/UEDPIE_0_EndOfGame)
+[2020.08.02-10.02.41:326][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:389][961]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:465][962]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:496][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:526][964]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:558][965]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:602][966]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:635][967]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:668][968]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:701][969]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:730][970]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:758][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:788][972]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:816][973]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:844][974]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:873][975]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:902][976]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:930][977]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:959][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.41:988][979]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:017][980]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:045][981]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:074][982]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:103][983]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:131][984]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:159][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:188][986]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:216][987]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:244][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:272][989]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:301][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:329][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:358][992]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:388][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:420][994]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:448][995]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:477][996]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:507][997]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:537][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:565][999]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:595][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:626][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:654][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:682][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:710][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:740][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:771][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:803][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:834][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:864][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:894][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:923][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:954][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.42:981][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:010][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:039][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:067][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:098][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:129][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:157][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:186][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:215][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:243][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:272][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:300][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:328][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:357][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:386][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:415][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:444][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:473][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:501][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:529][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:559][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:589][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:619][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:647][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:676][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:704][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:735][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:766][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:796][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:824][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:853][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:881][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:912][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:942][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.43:974][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:005][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:036][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:067][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:096][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:125][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:154][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:182][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:210][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:240][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:269][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:297][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:328][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:356][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:388][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:416][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:445][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:473][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:502][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:533][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:562][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:591][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:621][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:649][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:677][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:706][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:735][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:763][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:791][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:821][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.44:851][ 77]LogNet: Browse: /Game/Levels/Level2
+[2020.08.02-10.02.44:851][ 77]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.02-10.02.44:851][ 77]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.44:853][ 77]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.44:853][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.44:926][ 77]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275F2CF5300), frame # 35077
+[2020.08.02-10.02.44:926][ 77]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275F90D5200), frame # 35077
+[2020.08.02-10.02.44:932][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.08.02-10.02.44:935][ 77]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.44:956][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020929s)
+[2020.08.02-10.02.44:958][ 77]LogAIModule: Creating AISystem for world Level2
+[2020.08.02-10.02.44:958][ 77]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275B9EE4400), frame # 35077
+[2020.08.02-10.02.44:958][ 77]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002757A887D80), frame # 35077
+[2020.08.02-10.02.44:958][ 77]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2020.08.02-10.02.44:958][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.023111s)
+[2020.08.02-10.02.44:958][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.44:962][ 77]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.02-22.02.44
+[2020.08.02-10.02.44:962][ 77]LogWorld: Bringing up level for play took: 0.002272
+[2020.08.02-10.02.44:967][ 77]LogLoad: Took 0.116094 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.02-10.02.44:968][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:007][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:128][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:160][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:197][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:236][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:286][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:336][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:385][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:422][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:461][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:501][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:540][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:580][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:621][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:661][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:701][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:741][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:781][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:823][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:864][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:905][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:948][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.45:992][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:037][101]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:077][102]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:119][103]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:160][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:204][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:248][106]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:292][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:336][108]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:380][109]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:425][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:466][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:509][112]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:555][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:601][114]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:648][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:697][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:745][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:799][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:851][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:904][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.46:957][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:013][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:066][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:119][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:174][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:217][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:258][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:301][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.47:356][129]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.02-10.02.47:356][129]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.02-10.02.47:356][129]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.47:357][129]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.47:358][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.47:454][129]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002757A887D80), frame # 35129
+[2020.08.02-10.02.47:454][129]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275B9EE4400), frame # 35129
+[2020.08.02-10.02.47:465][129]LogUObjectHash: Compacting FUObjectHashTables data took  10.46ms
+[2020.08.02-10.02.47:469][129]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.47:471][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2020.08.02-10.02.47:474][129]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.02-10.02.47:474][129]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002757A85D800), frame # 35129
+[2020.08.02-10.02.47:474][129]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002760FA86840), frame # 35129
+[2020.08.02-10.02.47:475][129]LogPlayLevel: PIE: World Init took: (0.003231s)
+[2020.08.02-10.02.47:475][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EndOfGame.EndOfGame to /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame (0.005989s)
+[2020.08.02-10.02.47:475][129]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.47:477][129]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.02-22.02.47
+[2020.08.02-10.02.47:478][129]LogWorld: Bringing up level for play took: 0.000718
+[2020.08.02-10.02.47:479][129]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.02-10.02.47:485][129]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.02-10.02.47:487][129]LogLoad: Took 0.131193 seconds to LoadMap(/Game/Levels/UEDPIE_0_EndOfGame)
+[2020.08.02-10.02.47:488][129]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:528][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:593][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:611][132]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:628][133]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:655][134]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:687][135]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:718][136]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:751][137]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:777][138]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:804][139]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:831][140]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:859][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:887][142]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:916][143]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:944][144]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.47:972][145]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:001][146]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:029][147]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:057][148]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:085][149]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:113][150]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:141][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:171][152]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:203][153]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:234][154]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:262][155]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:291][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:321][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:350][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:380][159]LogNet: Browse: /Game/Levels/MainMenu
+[2020.08.02-10.02.48:380][159]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2020.08.02-10.02.48:380][159]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.48:381][159]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.48:382][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.48:453][159]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002760FA86840), frame # 35159
+[2020.08.02-10.02.48:453][159]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002757A85D800), frame # 35159
+[2020.08.02-10.02.48:461][159]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2020.08.02-10.02.48:477][159]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.02-10.02.48:478][159]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275FA76B800), frame # 35159
+[2020.08.02-10.02.48:478][159]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002757FBB1940), frame # 35159
+[2020.08.02-10.02.48:478][159]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.48:480][159]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.02-22.02.48
+[2020.08.02-10.02.48:481][159]LogWorld: Bringing up level for play took: 0.000979
+[2020.08.02-10.02.48:481][159]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.02-10.02.48:486][159]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.02-10.02.48:487][159]LogLoad: Took 0.107516 seconds to LoadMap(/Game/Levels/MainMenu)
+[2020.08.02-10.02.48:488][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:520][160]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:537][161]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:554][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:581][163]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:610][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:642][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:675][166]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:706][167]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:738][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:769][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:800][170]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:830][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:860][172]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:891][173]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:922][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:955][175]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.48:986][176]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:016][177]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:047][178]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:078][179]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:108][180]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:139][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:170][182]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:200][183]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:230][184]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:261][185]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:292][186]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:322][187]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:354][188]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:384][189]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:414][190]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:442][191]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:471][192]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:500][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:530][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.49:562][195]LogNet: Browse: /Game/Levels/Level2
+[2020.08.02-10.02.49:562][195]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.02-10.02.49:562][195]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.02-10.02.49:563][195]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.49:563][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.49:628][195]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002757FBB1940), frame # 35195
+[2020.08.02-10.02.49:628][195]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275FA76B800), frame # 35195
+[2020.08.02-10.02.49:634][195]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2020.08.02-10.02.49:635][195]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.49:654][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018197s)
+[2020.08.02-10.02.49:655][195]LogAIModule: Creating AISystem for world Level2
+[2020.08.02-10.02.49:655][195]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002757A85D400), frame # 35195
+[2020.08.02-10.02.49:655][195]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002757FBB2E80), frame # 35195
+[2020.08.02-10.02.49:656][195]LogPlayLevel: PIE: World Init took: (0.001777s)
+[2020.08.02-10.02.49:656][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.020307s)
+[2020.08.02-10.02.49:656][195]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.49:659][195]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.02-22.02.49
+[2020.08.02-10.02.49:659][195]LogWorld: Bringing up level for play took: 0.002296
+[2020.08.02-10.02.49:664][195]LogLoad: Took 0.102483 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.02-10.02.49:665][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.49:701][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.49:863][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.49:890][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.49:928][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.49:967][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:018][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:067][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:103][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:140][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:177][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:215][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:254][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:293][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:334][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:374][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:415][211]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:456][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:497][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:538][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:578][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:619][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:660][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:701][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:742][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:783][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:827][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:871][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:916][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.50:960][224]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.02-10.02.50:960][224]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.02-10.02.50:960][224]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.50:962][224]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.50:963][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.51:039][224]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002757FBB2E80), frame # 35224
+[2020.08.02-10.02.51:039][224]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002757A85D400), frame # 35224
+[2020.08.02-10.02.51:046][224]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2020.08.02-10.02.51:050][224]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.51:054][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003508s)
+[2020.08.02-10.02.51:056][224]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.02-10.02.51:056][224]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002757A768800), frame # 35224
+[2020.08.02-10.02.51:056][224]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027598E91D00), frame # 35224
+[2020.08.02-10.02.51:056][224]LogPlayLevel: PIE: World Init took: (0.002301s)
+[2020.08.02-10.02.51:056][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EndOfGame.EndOfGame to /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame (0.006225s)
+[2020.08.02-10.02.51:056][224]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.51:058][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.02-22.02.51
+[2020.08.02-10.02.51:059][224]LogWorld: Bringing up level for play took: 0.000698
+[2020.08.02-10.02.51:060][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.02-10.02.51:065][224]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.02-10.02.51:067][224]LogLoad: Took 0.106408 seconds to LoadMap(/Game/Levels/UEDPIE_0_EndOfGame)
+[2020.08.02-10.02.51:067][224]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:104][225]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:137][226]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:154][227]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:176][228]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:209][229]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:242][230]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:276][231]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:309][232]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:343][233]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:375][234]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:408][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:441][236]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:475][237]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:508][238]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:541][239]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:572][240]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:603][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:634][242]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:664][243]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:695][244]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:725][245]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:755][246]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:787][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:817][248]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:847][249]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:877][250]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:909][251]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:940][252]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.51:973][253]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:006][254]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:039][255]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:071][256]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:104][257]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:135][258]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:165][259]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:196][260]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:226][261]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:258][262]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:288][263]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:319][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:349][265]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:379][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:410][267]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:441][268]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:472][269]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:503][270]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:534][271]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:566][272]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:596][273]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:627][274]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:658][275]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:691][276]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:723][277]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:755][278]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:785][279]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:813][280]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:844][281]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:874][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:906][283]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:937][284]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:968][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.52:998][286]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.53:029][287]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.53:059][288]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.53:090][289]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.53:122][290]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.53:157][291]LogNet: Browse: /Game/Levels/Level2
+[2020.08.02-10.02.53:157][291]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.02-10.02.53:157][291]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.53:159][291]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.53:159][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.53:226][291]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027598E91D00), frame # 35291
+[2020.08.02-10.02.53:226][291]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002757A768800), frame # 35291
+[2020.08.02-10.02.53:232][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.08.02-10.02.53:233][291]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.53:250][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017043s)
+[2020.08.02-10.02.53:252][291]LogAIModule: Creating AISystem for world Level2
+[2020.08.02-10.02.53:252][291]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275FA76BA00), frame # 35291
+[2020.08.02-10.02.53:252][291]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002760F8D4A40), frame # 35291
+[2020.08.02-10.02.53:252][291]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2020.08.02-10.02.53:252][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.019185s)
+[2020.08.02-10.02.53:253][291]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.53:256][291]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.02-22.02.53
+[2020.08.02-10.02.53:256][291]LogWorld: Bringing up level for play took: 0.002063
+[2020.08.02-10.02.53:261][291]LogLoad: Took 0.103092 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.02-10.02.53:261][291]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:293][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:435][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:471][294]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:510][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:547][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:586][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:635][298]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:686][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:736][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:772][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:809][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:846][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:884][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:921][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.53:960][306]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:000][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:041][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:082][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:122][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:161][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:202][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:241][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:281][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:321][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:361][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:405][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:447][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:491][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:535][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:578][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:624][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:667][323]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:711][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:755][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:798][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:841][327]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:884][328]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:928][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.54:971][330]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:014][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:058][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:101][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:146][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:190][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:234][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:278][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:322][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:367][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:411][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:455][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:497][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:541][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:585][344]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:628][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:671][346]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:715][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:758][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:802][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:845][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:889][351]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:932][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.55:976][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:020][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:063][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:106][356]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:150][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:195][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:237][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:282][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:326][361]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:371][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:415][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:461][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.56:504][365]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.02-10.02.56:504][365]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.02-10.02.56:504][365]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.56:505][365]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.56:505][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.56:580][365]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002760F8D4A40), frame # 35365
+[2020.08.02-10.02.56:580][365]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275FA76BA00), frame # 35365
+[2020.08.02-10.02.56:587][365]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.08.02-10.02.56:592][365]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.56:595][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002982s)
+[2020.08.02-10.02.56:597][365]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.02-10.02.56:597][365]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275FA76A400), frame # 35365
+[2020.08.02-10.02.56:598][365]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027598E90E00), frame # 35365
+[2020.08.02-10.02.56:598][365]LogPlayLevel: PIE: World Init took: (0.002734s)
+[2020.08.02-10.02.56:598][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EndOfGame.EndOfGame to /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame (0.006067s)
+[2020.08.02-10.02.56:598][365]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.56:600][365]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.02-22.02.56
+[2020.08.02-10.02.56:601][365]LogWorld: Bringing up level for play took: 0.000566
+[2020.08.02-10.02.56:601][365]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.02-10.02.56:608][365]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.02-10.02.56:609][365]LogLoad: Took 0.105452 seconds to LoadMap(/Game/Levels/UEDPIE_0_EndOfGame)
+[2020.08.02-10.02.56:610][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:650][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:683][367]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:702][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:723][369]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:755][370]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:789][371]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:822][372]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:855][373]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:887][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:920][375]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:952][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.56:984][377]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:015][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:047][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:079][380]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:112][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:145][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:178][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:210][384]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:243][385]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:276][386]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:309][387]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:342][388]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:376][389]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:408][390]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:441][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:474][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:507][393]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:541][394]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:577][395]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:612][396]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:648][397]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:684][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:721][399]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:757][400]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:792][401]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:828][402]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:864][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:900][404]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:936][405]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.57:975][406]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.58:002][407]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.58:035][408]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.02.58:070][409]LogNet: Browse: /Game/Levels/Level2
+[2020.08.02-10.02.58:070][409]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.02-10.02.58:070][409]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.02.58:071][409]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.02.58:071][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.02.58:140][409]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027598E90E00), frame # 35409
+[2020.08.02-10.02.58:140][409]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275FA76A400), frame # 35409
+[2020.08.02-10.02.58:146][409]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.08.02-10.02.58:148][409]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.02.58:171][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023131s)
+[2020.08.02-10.02.58:173][409]LogAIModule: Creating AISystem for world Level2
+[2020.08.02-10.02.58:173][409]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275BA222400), frame # 35409
+[2020.08.02-10.02.58:173][409]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002757A884400), frame # 35409
+[2020.08.02-10.02.58:173][409]LogPlayLevel: PIE: World Init took: (0.002139s)
+[2020.08.02-10.02.58:173][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.025593s)
+[2020.08.02-10.02.58:174][409]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.02.58:177][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.02-22.02.58
+[2020.08.02-10.02.58:177][409]LogWorld: Bringing up level for play took: 0.002287
+[2020.08.02-10.02.58:182][409]LogLoad: Took 0.112544 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.02-10.02.58:183][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:220][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:387][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:416][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:456][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:495][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:536][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:587][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:627][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:668][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:709][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:751][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:796][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:840][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:884][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:927][424]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.58:970][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:014][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:058][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:102][428]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:145][429]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:189][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:234][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:276][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:320][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:364][434]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:407][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:451][436]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:496][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:539][438]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:582][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:626][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:670][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:714][442]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:757][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:802][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:847][445]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:890][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:934][447]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.02.59:978][448]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:023][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:067][450]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:111][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:156][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:201][453]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:245][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:288][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:332][456]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:377][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:421][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:464][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:508][460]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.08.02-10.03.00:553][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:596][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:640][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:684][464]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:729][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:773][466]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:817][467]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:860][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:904][469]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:948][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.00:992][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:037][472]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:080][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:122][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:165][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:209][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:254][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:298][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:341][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:385][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:428][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:471][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:515][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:559][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:607][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:655][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:703][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:756][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:808][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:861][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:914][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.01:966][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:019][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:072][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:128][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:185][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:244][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:297][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:338][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:382][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:427][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:473][502]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:518][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:561][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:605][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:649][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:691][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:732][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:772][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:812][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:853][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:892][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:932][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.02:972][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:013][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:053][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:092][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:133][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:173][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:215][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:258][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.0
+[2020.08.02-10.03.03:297][522]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.02-10.03.03:297][522]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.02-10.03.03:297][522]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.02-10.03.03:298][522]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.03.03:299][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.03.03:390][522]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002757A884400), frame # 35522
+[2020.08.02-10.03.03:390][522]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275BA222400), frame # 35522
+[2020.08.02-10.03.03:398][522]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2020.08.02-10.03.03:404][522]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.03.03:407][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002458s)
+[2020.08.02-10.03.03:409][522]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.02-10.03.03:409][522]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275B9EE4400), frame # 35522
+[2020.08.02-10.03.03:409][522]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027598E90900), frame # 35522
+[2020.08.02-10.03.03:409][522]LogPlayLevel: PIE: World Init took: (0.002309s)
+[2020.08.02-10.03.03:409][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EndOfGame.EndOfGame to /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame (0.005129s)
+[2020.08.02-10.03.03:409][522]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.03.03:412][522]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.02-22.03.03
+[2020.08.02-10.03.03:412][522]LogWorld: Bringing up level for play took: 0.000659
+[2020.08.02-10.03.03:413][522]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.02-10.03.03:419][522]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.02-10.03.03:421][522]LogLoad: Took 0.123629 seconds to LoadMap(/Game/Levels/UEDPIE_0_EndOfGame)
+[2020.08.02-10.03.03:421][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:464][523]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:497][524]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:518][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:540][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:561][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:586][528]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:614][529]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:643][530]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:672][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:700][532]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:729][533]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:760][534]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:791][535]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:822][536]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:853][537]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:883][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:914][539]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:944][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.03:975][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:005][542]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:037][543]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:067][544]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:097][545]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:128][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:156][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:186][548]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:216][549]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:246][550]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:277][551]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:308][552]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:338][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:369][554]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:400][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:431][556]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:461][557]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:492][558]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:523][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:552][560]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:581][561]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:611][562]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:642][563]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:672][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:704][565]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:735][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:765][567]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:796][568]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:826][569]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:857][570]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:888][571]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:918][572]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:948][573]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.04:978][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:010][575]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:042][576]LogNet: Browse: /Game/Levels/MainMenu
+[2020.08.02-10.03.05:042][576]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2020.08.02-10.03.05:042][576]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.02-10.03.05:044][576]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.03.05:044][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.03.05:126][576]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027598E90900), frame # 35576
+[2020.08.02-10.03.05:126][576]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275B9EE4400), frame # 35576
+[2020.08.02-10.03.05:133][576]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.08.02-10.03.05:150][576]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.02-10.03.05:150][576]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275BA3C9C00), frame # 35576
+[2020.08.02-10.03.05:150][576]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002757FBB2840), frame # 35576
+[2020.08.02-10.03.05:150][576]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.02-10.03.05:153][576]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.02-22.03.05
+[2020.08.02-10.03.05:153][576]LogWorld: Bringing up level for play took: 0.001188
+[2020.08.02-10.03.05:154][576]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.02-10.03.05:159][576]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.02-10.03.05:160][576]LogLoad: Took 0.117572 seconds to LoadMap(/Game/Levels/MainMenu)
+[2020.08.02-10.03.05:160][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:196][577]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:214][578]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:232][579]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:256][580]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:286][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:317][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:348][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:379][584]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:410][585]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:440][586]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:471][587]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:502][588]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:532][589]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:563][590]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:594][591]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:625][592]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:656][593]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:686][594]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:718][595]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:748][596]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:778][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:810][598]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:840][599]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:872][600]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:903][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:933][602]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:964][603]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.05:997][604]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:029][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:063][606]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:096][607]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:129][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:162][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:196][610]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:225][611]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:337][612]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:355][613]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:371][614]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:394][615]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:415][616]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:442][617]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:475][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:508][619]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:541][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:574][621]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:607][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:641][623]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:675][624]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:707][625]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:740][626]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:774][627]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:806][628]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:839][629]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:872][630]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:906][631]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:938][632]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.06:970][633]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:004][634]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:036][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:069][636]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:102][637]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:135][638]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:168][639]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:201][640]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:234][641]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:266][642]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:298][643]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:331][644]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:364][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:398][646]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:430][647]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:462][648]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:496][649]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:529][650]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:563][651]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:594][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:627][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:660][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:694][655]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:726][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:759][657]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:793][658]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:826][659]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:859][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:891][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:924][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:957][663]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.07:990][664]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:023][665]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:060][666]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:090][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:123][668]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:157][669]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:189][670]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:224][671]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:257][672]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:290][673]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:323][674]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:356][675]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:388][676]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:425][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:456][678]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:489][679]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:522][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:555][681]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:589][682]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:621][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:654][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:688][685]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:722][686]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:754][687]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:787][688]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:819][689]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:852][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:885][691]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:918][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:951][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.08:984][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:017][695]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:050][696]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:084][697]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:117][698]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:150][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:183][700]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:216][701]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:248][702]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:281][703]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:315][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:347][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:380][706]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:413][707]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:447][708]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:480][709]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:516][710]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:545][711]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:580][712]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:616][713]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:652][714]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:689][715]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:726][716]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:764][717]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:798][718]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:832][719]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:863][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:896][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:929][722]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:961][723]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.09:994][724]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:027][725]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:060][726]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:094][727]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:127][728]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:161][729]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:194][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:227][731]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:260][732]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:293][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:326][734]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:359][735]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:392][736]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:425][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:458][738]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:491][739]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:524][740]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:558][741]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:590][742]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:623][743]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:660][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:696][745]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:732][746]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:767][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:803][748]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:839][749]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:871][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:904][751]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:937][752]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.0
+[2020.08.02-10.03.10:970][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.02-10.03.10:977][753]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.02-10.03.10:977][753]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.02-10.03.11:026][753]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-10.03.11:026][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.03.11:044][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.02-10.03.11:052][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-10.03.11:172][753]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002757FBB2840), frame # 35753
+[2020.08.02-10.03.11:172][753]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275BA3C9C00), frame # 35753
+[2020.08.02-10.03.11:179][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.08.02-10.03.11:238][754]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.08.02-10.03.36:730][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.08.02-10.03.40:804][211]MapCheck: New page: Map Check
+[2020.08.02-10.03.40:860][211]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.02-10.03.40:861][211]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.02-10.03.40:895][211]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=false
+[2020.08.02-10.03.40:927][211]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.02-10.03.40:927][211]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.02-10.03.40:927][211]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.02-10.03.41:003][211]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.08.02-10.03.41:007][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:016][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:019][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.02-10.03.41:019][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.02-10.03.41:019][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:022][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:025][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:028][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:031][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:035][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:042][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:049][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.41:051][211]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.03.43:552][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.02-10.03.43:552][211]TextureStreamingBuild: Display: Compiling optional shaders took 2.545 seconds.
+[2020.08.02-10.03.43:581][211]LogLevel: Display: Export Material TexCoord Scales took 0.030 seconds.
+[2020.08.02-10.03.43:586][211]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2020.08.02-10.03.43:629][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.08.02-10.03.43:635][211]LightingResults: New page: Lighting Build - 3/08/2020, 10:03:43 am
+[2020.08.02-10.03.43:784][211]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.02-10.03.43:991][211]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.02-10.03.44:027][211]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.02-10.03.45:071][211]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.02-10.03.45:071][211]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24488
+[2020.08.02-10.03.52:893][211]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.02-10.03.52:893][211]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.02-10.03.52:893][211]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.02-10.03.52:893][211]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.02-10.03.52:893][211]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.02-10.03.53:313][211]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.02-10.03.53:313][211]MapCheck: New page: Level2 - 3/08/2020, 10:03:53 am
+[2020.08.02-10.03.53:314][211]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.08.02-10.03.53:317][211]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 4.358ms to complete.
+[2020.08.02-10.03.53:321][211]LogEditorBuildUtils: Build time 0:12
+[2020.08.02-10.03.53:969][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.08.02-10.04.03:775][336]LogSlate: Window 'Message Log' being destroyed
+[2020.08.02-10.04.03:821][336]LogSlate: Window 'Message Log' being destroyed
+[2020.08.02-10.04.08:415][387]Job is a success!
+[2020.08.02-10.04.08:638][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Coin.Coin
+[2020.08.02-10.04.09:561][388]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.034s
+[2020.08.02-10.04.09:561][388]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.02-10.04.09:562][388]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.08.02-10.04.09:562][388]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.02-10.04.09:562][388]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.08.02-10.04.09:562][388]LogVolumetricLightmapImport:          1: 8.9% covering 6.3% of volume
+[2020.08.02-10.04.09:562][388]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2020.08.02-10.04.09:562][388]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.02-10.04.09:562][388]LogVolumetricLightmapImport:          Level2 			 45 bricks 	 100.0% (Persistent Level)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.08.02-10.04.10:177][388]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.08.02-10.04.10:376][388]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.08.02-10.04.10:552][388]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.08.02-10.04.10:552][388]Lightmass on MICHAEL-SPRO7: 15.0 sec total, 467 ms importing, 120 ms setup, 2.26 sec photons, 12.0 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 1:24 min total, 36.7 sec processing.
+[2020.08.02-10.04.10:552][388]LogStaticLightingSystem: Level2_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2020.08.02-10.04.10:620][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.08.02-10.04.10:648][388]LogStaticLightingSystem: Illumination: 26.9 sec (570 ms encoding lightmaps, 290 ms encoding shadowmaps)
+[2020.08.02-10.04.10:648][388]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.08.02-10.04.10:648][388]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.08.02-10.04.10:918][388]DumpUnbuiltLightIteractions
+[2020.08.02-10.04.10:918][388]Lights with unbuilt interactions: 0
+[2020.08.02-10.04.10:918][388]
+[2020.08.02-10.04.10:918][388]Primitives with unbuilt interactions: 0
+[2020.08.02-10.04.11:173][389]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.02-10.04.11:173][389]MapCheck: New page: Level2 - 3/08/2020, 10:04:11 am
+[2020.08.02-10.04.11:174][389]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.665ms to complete.
+[2020.08.02-10.04.23:022][569]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/m_coin.m_coin
+[2020.08.02-10.04.23:025][569]LogMaterial: Display: Missing cached shader map for material m_coin, compiling. 
+[2020.08.02-10.04.23:181][569]LogMaterial: Display: Missing cached shader map for material m_coin, compiling. 
+[2020.08.02-10.04.23:194][569]LogMaterial: Display: Missing cached shader map for material m_coin, compiling. 
+[2020.08.02-10.04.23:210][569]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.04.23:210][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.04.23:210][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.04.23:210][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.04.23:216][569]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.02-10.04.25:326][595]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-10.04.25:915][602]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.04.26:212][606]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.02-10.04.26:316][606]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.02-10.04.27:413][620]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.02-10.04.27:780][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.02-10.04.28:708][635]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.02-10.04.28:708][635]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.04.28:972][637]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.02-10.04.37:017][834]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.08.02-10.04.37:017][834]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.08.02-10.04.37:017][834]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-10.04.37:017][834]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.02-10.05.03:197][311]LogEditorViewport: Clicking on Actor (LMB): RedBox_C (RedBox)
+[2020.08.02-10.05.04:393][336]LogEditorViewport: Clicking on Actor (LMB): RedBox_C (RedBox)
+[2020.08.02-10.05.04:537][336]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2020.08.02-10.05.51:579][296]LogSlate: Window 'Save Asset As' being destroyed
+[2020.08.02-10.05.54:372][333]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M_Red_Box.M_Red_Box
+[2020.08.02-10.05.54:375][333]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.05.54:534][333]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.05.54:549][333]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.05.54:567][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.05.54:568][333]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.05.54:568][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.05.54:568][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.05.56:550][353]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.05.56:580][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-10.05.56:723][355]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.08.02-10.05.57:083][361]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.08.02-10.05.57:466][366]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-10.05.57:634][369]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.08.02-10.05.58:806][388]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.05.58:954][392]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.08.02-10.05.58:989][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.02-10.05.59:526][407]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.06.00:138][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.02-10.06.01:137][427]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.02-10.06.01:194][428]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.02-10.06.01:786][434]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.06.01:873][435]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.02-10.06.02:007][436]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.08.02-10.06.02:007][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.08.02-10.06.02:007][436]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-10.06.02:007][436]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.02-10.06.03:767][456]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.02-10.06.05:740][497]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.06.05:765][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.06.05:765][497]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.06.05:765][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.06.05:765][497]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.06.05:765][497]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.02-10.06.07:748][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.02-10.06.08:526][534]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.06.09:009][541]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.02-10.06.09:201][544]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.02-10.06.10:349][557]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.02-10.06.10:759][562]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.02-10.06.11:930][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.02-10.06.12:177][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.02-10.06.12:299][581]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-10.06.12:436][582]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.02-10.06.12:436][582]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.02-10.06.12:437][582]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-10.06.12:437][582]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.02-10.06.23:532][769]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.06.23:546][769]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.06.23:546][769]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.06.23:546][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.06.23:546][769]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.06.24:907][789]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.02-10.06.25:460][797]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.02-10.06.25:884][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.02-10.06.26:001][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.06.26:457][810]LogMaterialEditor: Saving and Compiling material M_Red_Box
+[2020.08.02-10.06.27:685][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.02-10.06.27:695][810]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.06.27:734][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.02-10.06.27:735][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.06.27:735][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.02-10.06.27:735][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.02-10.06.27:767][810]LogMaterial: Display: Missing cached shader map for material M_Red_Box, compiling. 
+[2020.08.02-10.06.27:868][810]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.08.02-10.06.27:880][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.02-10.06.28:442][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.08.02-10.06.28:442][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.08.02-10.06.29:001][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.08.02-10.06.29:001][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.08.02-10.06.29:001][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.08.02-10.06.29:560][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.08.02-10.06.29:560][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.08.02-10.06.29:560][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.08.02-10.06.29:560][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.02-10.06.29:560][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.02-10.06.29:660][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.02-10.06.29:664][810]TextureStreamingBuild: Display: Compiling optional shaders took 1.793 seconds.
+[2020.08.02-10.06.29:730][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.08.02-10.06.31:900][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.02-10.06.31:900][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.02-10.06.32:461][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.02-10.06.33:045][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Red_Box" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/M_Red_Box.uasset" SILENT=true
+[2020.08.02-10.06.33:091][810]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/M_Red_Box3F304F0B4039FF5FC8F7008AF05E0D82.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/M_Red_Box.uasset'
+[2020.08.02-10.06.33:513][810]AssetCheck: New page: Asset Save: M_Red_Box
+[2020.08.02-10.06.33:513][810]LogContentValidation: Display: Validating Material /Game/M_Red_Box.M_Red_Box
+[2020.08.02-10.06.33:529][810]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.02-10.06.33:529][810]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.02-10.06.33:529][810]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.02-10.06.33:529][810]MaterialEditorStats: Texture samplers: 3/16
