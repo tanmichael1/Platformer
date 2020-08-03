@@ -4327,3 +4327,1258 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.03-08.19.31:646][422]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.027
 [2020.08.03-08.29.32:087][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2020.08.03-08.29.32:090][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.047
+[2020.08.03-08.39.32:682][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.08.03-08.39.32:683][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.030
+[2020.08.03-08.49.33:386][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.03-08.49.33:387][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.031
+[2020.08.03-08.59.33:854][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.08.03-08.59.33:855][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.029
+[2020.08.03-09.09.34:430][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.08.03-09.09.34:432][379]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.034
+[2020.08.03-09.19.35:140][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.08.03-09.19.35:148][153]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.142
+[2020.08.03-09.29.37:774][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.08.03-09.29.37:784][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.190
+[2020.08.03-09.39.38:168][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.08.03-09.39.38:169][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.028
+[2020.08.03-09.49.38:521][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.08.03-09.49.38:524][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.028
+[2020.08.03-09.54.07:650][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.03-09.54.15:486][142]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial
+[2020.08.03-09.55.13:354][829]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2020.08.03-09.55.13:401][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.08.03-09.55.14:866][829]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-09.55.15:040][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.03-09.55.15:530][829]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial24C9BD9A4D7CCF0B2D7A9FBC1627A143.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial.umap'
+[2020.08.03-09.55.15:570][829]LogFileHelpers: Saving map 'Tutorial' took 0.559
+[2020.08.03-09.55.15:570][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial_BuiltData" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset" SILENT=true
+[2020.08.03-09.55.15:765][829]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial_BuiltDataCCCE320742B006814B44D19CC214E82F.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset'
+[2020.08.03-09.55.16:060][829]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2020.08.03-09.55.16:060][829]SourceControl: Error: Platformer/Content/Levels/Tutorial_BuiltData.uasset
+[2020.08.03-09.55.16:060][829]SourceControl: Error: Use -f if you really want to add them.
+[2020.08.03-09.55.16:081][829]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-09.55.16:081][829]LightingResults: New page: Lighting Build
+[2020.08.03-09.55.16:090][829]LoadErrors: New page: Loading map: Level2.umap
+[2020.08.03-09.55.16:134][829]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-09.55.16:135][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-09.55.16:194][829]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-09.55.16:195][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-09.55.16:195][829]MapCheck: New page: Map Check
+[2020.08.03-09.55.16:195][829]LightingResults: New page: Lighting Build
+[2020.08.03-09.55.16:235][829]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D583751080), frame # 180829
+[2020.08.03-09.55.16:235][829]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D578B41800), frame # 180829
+[2020.08.03-09.55.16:244][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.08.03-09.55.16:276][829]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-09.55.16:277][829]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-09.55.16:278][829]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5DEDAEA00), frame # 180829
+[2020.08.03-09.55.16:278][829]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D58381F740), frame # 180829
+[2020.08.03-09.55.16:309][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.08.03-09.55.16:342][829]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-09.55.16:343][829]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.88ms to complete.
+[2020.08.03-09.55.16:343][829]LogFileHelpers: Loading map 'Level2' took 0.274
+[2020.08.03-09.55.16:428][829]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.03-09.55.16:428][829]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2020.08.03-09.55.16:470][829]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Tutorial_BuiltData.Tutorial_BuiltData
+[2020.08.03-09.55.24:610][245]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level2.Level2:PersistentLevel.Level2
+[2020.08.03-09.55.49:789][881]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Tutorial.Tutorial
+[2020.08.03-09.55.49:838][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.08.03-09.55.49:842][881]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-09.55.49:842][881]LightingResults: New page: Lighting Build
+[2020.08.03-09.55.49:852][881]LoadErrors: New page: Loading map: Tutorial.umap
+[2020.08.03-09.55.49:898][881]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-09.55.49:898][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-09.55.49:963][881]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-09.55.49:963][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-09.55.49:963][881]MapCheck: New page: Map Check
+[2020.08.03-09.55.49:963][881]LightingResults: New page: Lighting Build
+[2020.08.03-09.55.50:010][881]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D58381F740), frame # 181881
+[2020.08.03-09.55.50:010][881]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5DEDAEA00), frame # 181881
+[2020.08.03-09.55.50:013][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.08.03-09.55.50:032][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-09.55.50:032][881]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-09.55.50:032][881]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4F9ED8600), frame # 181881
+[2020.08.03-09.55.50:032][881]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DED42C00), frame # 181881
+[2020.08.03-09.55.50:074][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.08.03-09.55.50:113][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-09.55.50:113][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2020.08.03-09.55.50:113][881]LogFileHelpers: Loading map 'Tutorial' took 0.273
+[2020.08.03-09.56.24:802][991]LogEditorViewport: Clicking on Actor (LMB): FinalBox_C (FinalBox)
+[2020.08.03-09.56.25:735][ 20]LogEditorViewport: Clicking on Actor (LMB): FinalBox_C (FinalBox)
+[2020.08.03-09.56.25:836][ 20]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cone)
+[2020.08.03-09.56.28:758][112]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.08.03-09.56.29:560][135]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cone)
+[2020.08.03-09.56.30:183][152]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cone)
+[2020.08.03-09.56.48:146][692]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FinalBox.FinalBox
+[2020.08.03-09.57.28:484][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-09.57.28:524][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-09.57.28:525][501]PIE: New page: PIE session: Tutorial (4/08/2020, 9:57:28 am)
+[2020.08.03-09.57.28:526][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-09.57.28:548][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021436s)
+[2020.08.03-09.57.28:549][501]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-09.57.28:550][501]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5DF03DC00), frame # 184501
+[2020.08.03-09.57.28:550][501]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DEE22700), frame # 184501
+[2020.08.03-09.57.28:551][501]LogPlayLevel: PIE: World Init took: (0.002869s)
+[2020.08.03-09.57.28:551][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.024733s)
+[2020.08.03-09.57.28:597][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.08.03-09.57.28:602][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-09.57.28:602][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-09.57.28:602][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-09.57.28:602][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-09.57.28:602][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-09.57.28:602][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-09.57.28:603][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-09.57.28:603][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-09.57.28:605][501]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-09.57.28:605][501]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-09.57.28:615][501]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-09.57.28:615][501]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-09.57.28:652][501]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-09.57.28:653][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-09.57.28:653][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-09.57.28:653][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-09.57.28:655][501]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-09.57.28:673][501]LogInit: FAudioDevice initialized.
+[2020.08.03-09.57.28:735][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-09.57.28:736][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-09.57.28:741][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-21.57.28
+[2020.08.03-09.57.28:742][501]LogWorld: Bringing up level for play took: 0.005480
+[2020.08.03-09.57.28:745][501]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.08.03-09.57.28:780][501]PIE: Server logged in
+[2020.08.03-09.57.28:784][501]PIE: Play in editor total start time 0.266 seconds.
+[2020.08.03-09.57.32:722][588]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.03-09.57.32:723][588]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.03-09.57.32:724][588]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-09.57.32:727][588]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-09.57.32:727][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-09.57.32:818][588]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DEE22700), frame # 184588
+[2020.08.03-09.57.32:819][588]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5DF03DC00), frame # 184588
+[2020.08.03-09.57.32:824][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.08.03-09.57.32:840][588]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.03-09.57.32:840][588]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5E6B14C00), frame # 184588
+[2020.08.03-09.57.32:840][588]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DEED8180), frame # 184588
+[2020.08.03-09.57.32:840][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-09.57.32:842][588]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.03-21.57.32
+[2020.08.03-09.57.32:842][588]LogWorld: Bringing up level for play took: 0.000859
+[2020.08.03-09.57.32:843][588]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-09.57.32:851][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-09.57.32:853][588]LogLoad: Took 0.129538 seconds to LoadMap(/Game/Levels/EndOfGame)
+[2020.08.03-09.57.34:870][652]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-09.57.34:924][652]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.03-09.57.34:924][652]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-09.57.34:925][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-09.57.34:941][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-09.57.34:949][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-09.57.35:031][652]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DEED8180), frame # 184652
+[2020.08.03-09.57.35:031][652]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5E6B14C00), frame # 184652
+[2020.08.03-09.57.35:034][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.08.03-09.57.35:146][653]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.08.03-10.00.03:916][459]LogSlate: Took 0.006653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.03-10.00.49:311][ 76]BlueprintLog: New page: Compile FinalBox
+[2020.08.03-10.00.49:410][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.08.03-10.00.55:613][327]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.00.55:669][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.00.55:669][327]PIE: New page: PIE session: Tutorial (4/08/2020, 10:00:55 am)
+[2020.08.03-10.00.55:670][327]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.00.55:703][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033526s)
+[2020.08.03-10.00.55:706][327]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.00.55:706][327]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F01FBE00), frame # 189327
+[2020.08.03-10.00.55:707][327]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF988B80), frame # 189327
+[2020.08.03-10.00.55:707][327]LogPlayLevel: PIE: World Init took: (0.003385s)
+[2020.08.03-10.00.55:707][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.037286s)
+[2020.08.03-10.00.55:762][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.08.03-10.00.55:763][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.00.55:763][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.00.55:763][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.00.55:763][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.00.55:763][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.00.55:763][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.00.55:763][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.00.55:763][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.00.55:764][327]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.00.55:764][327]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.00.55:778][327]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.00.55:778][327]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.00.55:837][327]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.00.55:837][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.00.55:837][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.00.55:837][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.00.55:838][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.00.55:871][327]LogInit: FAudioDevice initialized.
+[2020.08.03-10.00.55:937][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.00.55:938][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.00.55:945][327]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.00.55
+[2020.08.03-10.00.55:947][327]LogWorld: Bringing up level for play took: 0.007327
+[2020.08.03-10.00.55:947][327]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.08.03-10.00.55:967][327]PIE: Server logged in
+[2020.08.03-10.00.55:972][327]PIE: Play in editor total start time 0.31 seconds.
+[2020.08.03-10.01.00:129][415]LogNet: Browse: /Game/Levels/Tutorial
+[2020.08.03-10.01.00:129][415]LogLoad: LoadMap: /Game/Levels/Tutorial
+[2020.08.03-10.01.00:130][415]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.01.00:131][415]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.01.00:131][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.01.00:228][415]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF988B80), frame # 189415
+[2020.08.03-10.01.00:228][415]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5F01FBE00), frame # 189415
+[2020.08.03-10.01.00:232][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.08.03-10.01.00:235][415]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.01.00:256][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020928s)
+[2020.08.03-10.01.00:258][415]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.01.00:258][415]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F01F8C00), frame # 189415
+[2020.08.03-10.01.00:258][415]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5758F9080), frame # 189415
+[2020.08.03-10.01.00:259][415]LogPlayLevel: PIE: World Init took: (0.002409s)
+[2020.08.03-10.01.00:259][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.023950s)
+[2020.08.03-10.01.00:259][415]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.01.00:264][415]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.01.00
+[2020.08.03-10.01.00:265][415]LogWorld: Bringing up level for play took: 0.004435
+[2020.08.03-10.01.00:273][415]LogLoad: Took 0.143326 seconds to LoadMap(/Game/Levels/UEDPIE_0_Tutorial)
+[2020.08.03-10.01.08:549][621]LogNet: Browse: /Game/Levels/Tutorial
+[2020.08.03-10.01.08:549][621]LogLoad: LoadMap: /Game/Levels/Tutorial
+[2020.08.03-10.01.08:549][621]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.01.08:550][621]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.01.08:551][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.01.08:636][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5758F9080), frame # 189621
+[2020.08.03-10.01.08:636][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5F01F8C00), frame # 189621
+[2020.08.03-10.01.08:640][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.08.03-10.01.08:642][621]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.01.08:667][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024417s)
+[2020.08.03-10.01.08:669][621]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.01.08:669][621]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F01F9800), frame # 189621
+[2020.08.03-10.01.08:670][621]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF69A340), frame # 189621
+[2020.08.03-10.01.08:670][621]LogPlayLevel: PIE: World Init took: (0.003283s)
+[2020.08.03-10.01.08:670][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.028106s)
+[2020.08.03-10.01.08:670][621]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.01.08:676][621]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.01.08
+[2020.08.03-10.01.08:677][621]LogWorld: Bringing up level for play took: 0.005155
+[2020.08.03-10.01.08:688][621]LogLoad: Took 0.139222 seconds to LoadMap(/Game/Levels/UEDPIE_0_Tutorial)
+[2020.08.03-10.01.10:797][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.01.10:798][673]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.01.10:799][673]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.01.10:829][673]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.01.10:830][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.01.10:852][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.01.10:860][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.01.10:990][673]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF69A340), frame # 189673
+[2020.08.03-10.01.10:990][673]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5F01F9800), frame # 189673
+[2020.08.03-10.01.10:997][673]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.08.03-10.01.11:090][674]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.08.03-10.04.14:586][186]LogEditorViewport: Clicking on Actor (LMB): FinalBox_C (FinalBox)
+[2020.08.03-10.04.38:800][934]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.08.03-10.04.49:351][205]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.08.03-10.04.49:403][205]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.08.03-10.05.21:161][172]BlueprintLog: New page: Compile FinalBox
+[2020.08.03-10.05.21:167][172]LogClass: Warning: Type mismatch in NextLevel of FinalBox_C - Previous (IntProperty) Current(NameProperty) for package:  FObjectReader
+[2020.08.03-10.05.21:273][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.08.03-10.06.20:739][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.08.03-10.06.20:936][331]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial_Auto67F33EADD4105743EB336E3A46EC72CCA.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Autosaves/Game/Levels/Tutorial_Auto6.umap'
+[2020.08.03-10.06.20:940][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Tutorial' took 0.243
+[2020.08.03-10.06.20:941][331]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2020.08.03-10.06.20:941][331]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalBox] ([1] browsable assets)...
+[2020.08.03-10.06.20:962][331]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FinalBox.FinalBox]
+[2020.08.03-10.06.20:962][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalBox]
+[2020.08.03-10.06.20:962][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalBox" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Autosaves/Game/FinalBox_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-10.06.21:019][331]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/FinalBox_Auto6D97608C647A12E3005D4AA8EABB18691.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Autosaves/Game/FinalBox_Auto6.uasset'
+[2020.08.03-10.06.21:020][331]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.08.03-10.06.21:539][347]BlueprintLog: New page: Compile FinalBox
+[2020.08.03-10.06.21:639][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.08.03-10.06.25:846][497]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Tutorial.Tutorial
+[2020.08.03-10.06.25:912][497]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.08.03-10.06.28:771][497]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-10.06.29:151][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalBox" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset" SILENT=true
+[2020.08.03-10.06.29:197][497]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/FinalBox459C07AA464F0C08F05AA19CDA359DB4.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/FinalBox.uasset'
+[2020.08.03-10.06.29:242][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.08.03-10.06.29:416][497]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/TutorialE371B480406B8BC0CDE77285A0BE864D.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial.umap'
+[2020.08.03-10.06.29:464][497]LogFileHelpers: Saving map 'Tutorial' took 0.261
+[2020.08.03-10.06.29:465][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial_BuiltData" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset" SILENT=true
+[2020.08.03-10.06.29:769][497]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial_BuiltData3177C8D64634551D2719BB8F955024E2.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset'
+[2020.08.03-10.06.29:775][497]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.06.29:776][497]LightingResults: New page: Lighting Build
+[2020.08.03-10.06.29:780][497]LoadErrors: New page: Loading map: Tutorial.umap
+[2020.08.03-10.06.29:783][497]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.06.29:783][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.06.29:783][497]MapCheck: New page: Map Check
+[2020.08.03-10.06.29:783][497]LightingResults: New page: Lighting Build
+[2020.08.03-10.06.29:813][497]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DED42C00), frame # 194497
+[2020.08.03-10.06.29:814][497]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4F9ED8600), frame # 194497
+[2020.08.03-10.06.29:816][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.08.03-10.06.29:856][497]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.06.29:856][497]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5DEDAE000), frame # 194497
+[2020.08.03-10.06.29:856][497]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DEA86E80), frame # 194497
+[2020.08.03-10.06.29:865][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.06.29:902][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.08.03-10.06.29:950][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.06.29:963][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 13.001ms to complete.
+[2020.08.03-10.06.29:963][497]LogFileHelpers: Loading map 'Tutorial' took 0.189
+[2020.08.03-10.06.30:041][497]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.03-10.06.30:041][497]LogContentValidation: Display: Validating Blueprint /Game/FinalBox.FinalBox
+[2020.08.03-10.06.30:041][497]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2020.08.03-10.06.30:041][497]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Tutorial_BuiltData.Tutorial_BuiltData
+[2020.08.03-10.06.34:727][615]LogEditorViewport: Clicking on Actor (LMB): FinalBox_C (FinalBox)
+[2020.08.03-10.06.47:337][ 45]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.06.47:395][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.06.47:396][ 45]PIE: New page: PIE session: Tutorial (4/08/2020, 10:06:47 am)
+[2020.08.03-10.06.47:396][ 45]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.06.47:428][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031850s)
+[2020.08.03-10.06.47:431][ 45]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.06.47:431][ 45]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D588EE7C00), frame # 195045
+[2020.08.03-10.06.47:431][ 45]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF79EFC0), frame # 195045
+[2020.08.03-10.06.47:431][ 45]LogPlayLevel: PIE: World Init took: (0.003013s)
+[2020.08.03-10.06.47:432][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.035457s)
+[2020.08.03-10.06.47:476][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.08.03-10.06.47:479][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.06.47:479][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.06.47:479][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.06.47:479][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.06.47:479][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.06.47:479][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.06.47:479][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.06.47:479][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.06.47:480][ 45]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.06.47:480][ 45]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.06.47:490][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.06.47:490][ 45]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.06.47:536][ 45]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.06.47:536][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.06.47:536][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.06.47:536][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.06.47:537][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.06.47:560][ 45]LogInit: FAudioDevice initialized.
+[2020.08.03-10.06.47:622][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.06.47:622][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.06.47:629][ 45]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.06.47
+[2020.08.03-10.06.47:630][ 45]LogWorld: Bringing up level for play took: 0.006391
+[2020.08.03-10.06.47:630][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.08.03-10.06.47:647][ 45]PIE: Server logged in
+[2020.08.03-10.06.47:650][ 45]PIE: Play in editor total start time 0.268 seconds.
+[2020.08.03-10.06.51:741][123]LogNet: Browse: /Game/Levels/Level2
+[2020.08.03-10.06.51:741][123]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.03-10.06.51:741][123]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.06.51:743][123]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.06.51:744][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.06.51:844][123]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF79EFC0), frame # 195123
+[2020.08.03-10.06.51:844][123]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D588EE7C00), frame # 195123
+[2020.08.03-10.06.51:849][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.08.03-10.06.51:953][123]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.06.51:953][123]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F0A5F200), frame # 195123
+[2020.08.03-10.06.51:953][123]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DEAF3100), frame # 195123
+[2020.08.03-10.06.51:954][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.06.51:970][123]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.03-22.06.51
+[2020.08.03-10.06.51:970][123]LogWorld: Bringing up level for play took: 0.015419
+[2020.08.03-10.06.51:979][123]LogLoad: Took 0.237661 seconds to LoadMap(/Game/Levels/Level2)
+[2020.08.03-10.06.57:496][235]LogPackageName: SearchForPackageOnDisk took   0.428s, but failed to resolve 0.umap.
+[2020.08.03-10.06.57:782][236]LogPackageName: SearchForPackageOnDisk took   0.269s, but failed to resolve 0.umap.
+[2020.08.03-10.06.57:782][236]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.08.03-10.06.57:782][236]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.08.03-10.06.57:782][236]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.08.03-10.06.57:782][236]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.08.03-10.06.57:782][236]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.08.03-10.06.57:783][236]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.08.03-10.06.57:783][236]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2020.08.03-10.06.57:835][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.06.57:835][236]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.06.57:836][236]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.06.57:844][236]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.06.57:844][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.06.57:862][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.06.57:867][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.06.57:961][236]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DEAF3100), frame # 195236
+[2020.08.03-10.06.57:961][236]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5F0A5F200), frame # 195236
+[2020.08.03-10.06.57:966][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.08.03-10.06.58:146][237]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.08.03-10.07.01:696][336]LogSlate: Window 'Message Log' being destroyed
+[2020.08.03-10.07.01:731][336]LogSlate: Window 'Message Log' being destroyed
+[2020.08.03-10.07.07:151][501]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2020.08.03-10.07.07:194][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.08.03-10.07.08:789][501]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-10.07.09:041][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.03-10.07.09:224][501]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial69674EA545AB88150C8421BDF511652F.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial.umap'
+[2020.08.03-10.07.09:286][501]LogFileHelpers: Saving map 'Tutorial' took 0.287
+[2020.08.03-10.07.09:286][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial_BuiltData" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset" SILENT=true
+[2020.08.03-10.07.09:627][501]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial_BuiltDataE93F002E4360F8C56AC53FBEF21B19A5.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset'
+[2020.08.03-10.07.09:638][501]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.07.09:638][501]LightingResults: New page: Lighting Build
+[2020.08.03-10.07.09:642][501]LoadErrors: New page: Loading map: Level2.umap
+[2020.08.03-10.07.09:645][501]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.07.09:645][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.07.09:645][501]MapCheck: New page: Map Check
+[2020.08.03-10.07.09:645][501]LightingResults: New page: Lighting Build
+[2020.08.03-10.07.09:681][501]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DEA86E80), frame # 195501
+[2020.08.03-10.07.09:681][501]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5DEDAE000), frame # 195501
+[2020.08.03-10.07.09:684][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.08.03-10.07.09:695][501]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.07.09:695][501]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.07.09:695][501]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5A038A200), frame # 195501
+[2020.08.03-10.07.09:695][501]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DB915580), frame # 195501
+[2020.08.03-10.07.09:735][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.03-10.07.09:779][501]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.07.09:780][501]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.474ms to complete.
+[2020.08.03-10.07.09:780][501]LogFileHelpers: Loading map 'Level2' took 0.146
+[2020.08.03-10.07.09:859][501]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.03-10.07.09:859][501]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2020.08.03-10.07.09:902][501]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Tutorial_BuiltData.Tutorial_BuiltData
+[2020.08.03-10.07.35:261][935]LogEditorViewport: Clicking on Actor (LMB): FinalBox_C (FinalBox)
+[2020.08.03-10.07.49:274][382]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.03-10.07.49:327][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.08.03-10.07.51:462][382]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-10.07.51:723][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.08.03-10.07.51:909][382]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Level21253744D44BD5CAA51771888BA36E872.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2.umap'
+[2020.08.03-10.07.51:961][382]LogFileHelpers: Saving map 'Level2' took 0.276
+[2020.08.03-10.07.51:962][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_BuiltData" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2_BuiltData.uasset" SILENT=true
+[2020.08.03-10.07.52:260][382]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Level2_BuiltDataC22D7983417CA85DAFF5A6894F9C9020.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2_BuiltData.uasset'
+[2020.08.03-10.07.52:268][382]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.07.52:268][382]LightingResults: New page: Lighting Build
+[2020.08.03-10.07.52:272][382]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.03-10.07.52:275][382]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.07.52:275][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.07.52:275][382]MapCheck: New page: Map Check
+[2020.08.03-10.07.52:275][382]LightingResults: New page: Lighting Build
+[2020.08.03-10.07.52:306][382]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DB915580), frame # 196382
+[2020.08.03-10.07.52:306][382]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5A038A200), frame # 196382
+[2020.08.03-10.07.52:309][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.08.03-10.07.52:355][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.08.03-10.07.52:385][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.08.03-10.07.52:388][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.07.52:388][382]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.07.52:388][382]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5453A8200), frame # 196382
+[2020.08.03-10.07.52:388][382]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF79E980), frame # 196382
+[2020.08.03-10.07.52:420][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.08.03-10.07.52:463][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.07.52:463][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2020.08.03-10.07.52:463][382]LogFileHelpers: Loading map 'MainMenu' took 0.197
+[2020.08.03-10.07.52:528][382]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.03-10.07.52:528][382]LogContentValidation: Display: Validating World /Game/Levels/Level2.Level2
+[2020.08.03-10.07.52:571][382]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level2_BuiltData.Level2_BuiltData
+[2020.08.03-10.07.56:576][550]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.07.56:626][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.07.56:626][550]PIE: New page: PIE session: MainMenu (4/08/2020, 10:07:56 am)
+[2020.08.03-10.07.56:626][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.07.56:629][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001956s)
+[2020.08.03-10.07.56:630][550]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.07.56:630][550]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D586CB5800), frame # 196550
+[2020.08.03-10.07.56:630][550]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D581CDAFC0), frame # 196550
+[2020.08.03-10.07.56:630][550]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2020.08.03-10.07.56:630][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003874s)
+[2020.08.03-10.07.56:676][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.08.03-10.07.56:677][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.07.56:677][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.07.56:677][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.07.56:677][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.07.56:677][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.07.56:677][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.07.56:677][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.07.56:677][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.07.56:678][550]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.07.56:678][550]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.07.56:687][550]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.07.56:687][550]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.07.56:725][550]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.07.56:725][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.07.56:725][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.07.56:725][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.07.56:725][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.07.56:746][550]LogInit: FAudioDevice initialized.
+[2020.08.03-10.07.56:806][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.07.56:807][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.07.56:808][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.03-22.07.56
+[2020.08.03-10.07.56:809][550]LogWorld: Bringing up level for play took: 0.000816
+[2020.08.03-10.07.56:809][550]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.08.03-10.07.56:820][550]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.07.56:825][550]PIE: Server logged in
+[2020.08.03-10.07.56:828][550]PIE: Play in editor total start time 0.206 seconds.
+[2020.08.03-10.07.58:278][584]LogNet: Browse: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.07.58:278][584]LogLoad: LoadMap: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.07.58:278][584]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.07.58:279][584]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.07.58:279][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.07.58:329][584]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D581CDAFC0), frame # 196584
+[2020.08.03-10.07.58:329][584]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D586CB5800), frame # 196584
+[2020.08.03-10.07.58:334][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.08.03-10.07.58:360][584]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.07.58:360][584]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D51B97E000), frame # 196584
+[2020.08.03-10.07.58:360][584]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DCD71BC0), frame # 196584
+[2020.08.03-10.07.58:361][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.07.58:363][584]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial up for play (max tick rate 60) at 2020.08.03-22.07.58
+[2020.08.03-10.07.58:363][584]LogWorld: Bringing up level for play took: 0.001111
+[2020.08.03-10.07.58:364][584]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.07.58:372][584]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.07.58:374][584]LogLoad: Took 0.096070 seconds to LoadMap(/Game/Levels/Pre-Tutorial)
+[2020.08.03-10.08.01:826][685]LogNet: Browse: /Game/Levels/Level2
+[2020.08.03-10.08.01:826][685]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.03-10.08.01:826][685]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.08.01:828][685]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.08.01:828][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.01:878][685]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DCD71BC0), frame # 196685
+[2020.08.03-10.08.01:878][685]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D51B97E000), frame # 196685
+[2020.08.03-10.08.01:881][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.08.03-10.08.01:883][685]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.08.01:914][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031493s)
+[2020.08.03-10.08.01:916][685]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.08.01:917][685]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5FFFA0E00), frame # 196685
+[2020.08.03-10.08.01:917][685]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF69B240), frame # 196685
+[2020.08.03-10.08.01:917][685]LogPlayLevel: PIE: World Init took: (0.003424s)
+[2020.08.03-10.08.01:918][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.035622s)
+[2020.08.03-10.08.01:918][685]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.08.01:922][685]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.03-22.08.01
+[2020.08.03-10.08.01:922][685]LogWorld: Bringing up level for play took: 0.002253
+[2020.08.03-10.08.01:929][685]LogLoad: Took 0.102293 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.03-10.08.05:450][768]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.03-10.08.05:450][768]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.03-10.08.05:450][768]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.08.05:452][768]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.08.05:452][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.05:537][768]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF69B240), frame # 196768
+[2020.08.03-10.08.05:537][768]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5FFFA0E00), frame # 196768
+[2020.08.03-10.08.05:541][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.08.03-10.08.05:557][768]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.03-10.08.05:557][768]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5FFFA1E00), frame # 196768
+[2020.08.03-10.08.05:558][768]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF789300), frame # 196768
+[2020.08.03-10.08.05:558][768]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.08.05:561][768]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.03-22.08.05
+[2020.08.03-10.08.05:561][768]LogWorld: Bringing up level for play took: 0.000981
+[2020.08.03-10.08.05:562][768]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.08.05:568][768]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.08.05:570][768]LogLoad: Took 0.119849 seconds to LoadMap(/Game/Levels/EndOfGame)
+[2020.08.03-10.08.09:525][886]LogNet: Browse: /Game/Levels/Level2
+[2020.08.03-10.08.09:525][886]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.03-10.08.09:525][886]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.03-10.08.09:526][886]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.08.09:526][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.09:583][886]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF789300), frame # 196886
+[2020.08.03-10.08.09:583][886]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5FFFA1E00), frame # 196886
+[2020.08.03-10.08.09:588][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.08.03-10.08.09:589][886]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.08.09:615][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025599s)
+[2020.08.03-10.08.09:618][886]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.08.09:618][886]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D606611400), frame # 196886
+[2020.08.03-10.08.09:618][886]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF613600), frame # 196886
+[2020.08.03-10.08.09:619][886]LogPlayLevel: PIE: World Init took: (0.003971s)
+[2020.08.03-10.08.09:619][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.030110s)
+[2020.08.03-10.08.09:619][886]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.08.09:623][886]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.03-22.08.09
+[2020.08.03-10.08.09:623][886]LogWorld: Bringing up level for play took: 0.002422
+[2020.08.03-10.08.09:630][886]LogLoad: Took 0.105123 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.03-10.08.11:744][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.08.11:744][932]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.08.11:745][932]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.08.11:759][932]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.08.11:760][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.11:776][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.08.11:786][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.11:906][932]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF613600), frame # 196932
+[2020.08.03-10.08.11:906][932]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D606611400), frame # 196932
+[2020.08.03-10.08.11:912][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.08.03-10.08.11:975][933]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.08.03-10.08.14:476][ 27]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.08.14:516][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.08.14:517][ 27]PIE: New page: PIE session: MainMenu (4/08/2020, 10:08:14 am)
+[2020.08.03-10.08.14:517][ 27]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.08.14:520][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002516s)
+[2020.08.03-10.08.14:521][ 27]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.08.14:521][ 27]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5FEE91200), frame # 197027
+[2020.08.03-10.08.14:521][ 27]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5E905EFC0), frame # 197027
+[2020.08.03-10.08.14:522][ 27]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2020.08.03-10.08.14:522][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.004310s)
+[2020.08.03-10.08.14:562][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.08.03-10.08.14:563][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.08.14:563][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.08.14:563][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.08.14:563][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.08.14:563][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.08.14:563][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.08.14:563][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.08.14:563][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.08.14:564][ 27]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.08.14:564][ 27]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.08.14:573][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.08.14:573][ 27]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.08.14:611][ 27]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.08.14:611][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.08.14:611][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.08.14:611][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.08.14:612][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.08.14:631][ 27]LogInit: FAudioDevice initialized.
+[2020.08.03-10.08.14:705][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.08.14:705][ 27]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.08.14:707][ 27]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.03-22.08.14
+[2020.08.03-10.08.14:707][ 27]LogWorld: Bringing up level for play took: 0.000723
+[2020.08.03-10.08.14:708][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.08.03-10.08.14:718][ 27]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.08.14:724][ 27]PIE: Server logged in
+[2020.08.03-10.08.14:728][ 27]PIE: Play in editor total start time 0.217 seconds.
+[2020.08.03-10.08.15:797][ 52]LogNet: Browse: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.08.15:797][ 52]LogLoad: LoadMap: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.08.15:797][ 52]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.08.15:799][ 52]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.08.15:800][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.15:847][ 52]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5E905EFC0), frame # 197052
+[2020.08.03-10.08.15:847][ 52]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5FEE91200), frame # 197052
+[2020.08.03-10.08.15:851][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.08.03-10.08.15:865][ 52]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.08.15:865][ 52]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5E0CDE600), frame # 197052
+[2020.08.03-10.08.15:865][ 52]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5758F8680), frame # 197052
+[2020.08.03-10.08.15:865][ 52]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.08.15:868][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial up for play (max tick rate 60) at 2020.08.03-22.08.15
+[2020.08.03-10.08.15:868][ 52]LogWorld: Bringing up level for play took: 0.001630
+[2020.08.03-10.08.15:869][ 52]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.08.15:875][ 52]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.08.15:877][ 52]LogLoad: Took 0.079321 seconds to LoadMap(/Game/Levels/Pre-Tutorial)
+[2020.08.03-10.08.16:554][ 72]LogNet: Browse: /Game/Levels/Level2
+[2020.08.03-10.08.16:554][ 72]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.03-10.08.16:554][ 72]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.08.16:556][ 72]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.08.16:556][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.16:605][ 72]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5758F8680), frame # 197072
+[2020.08.03-10.08.16:605][ 72]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5E0CDE600), frame # 197072
+[2020.08.03-10.08.16:608][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.08.03-10.08.16:610][ 72]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.08.16:638][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027903s)
+[2020.08.03-10.08.16:640][ 72]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.08.16:640][ 72]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5E0CDE000), frame # 197072
+[2020.08.03-10.08.16:640][ 72]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF78A700), frame # 197072
+[2020.08.03-10.08.16:640][ 72]LogPlayLevel: PIE: World Init took: (0.001914s)
+[2020.08.03-10.08.16:640][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.030138s)
+[2020.08.03-10.08.16:640][ 72]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.08.16:644][ 72]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.03-22.08.16
+[2020.08.03-10.08.16:644][ 72]LogWorld: Bringing up level for play took: 0.002529
+[2020.08.03-10.08.16:654][ 72]LogLoad: Took 0.099976 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.03-10.08.18:355][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.08.18:355][111]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.08.18:356][111]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.08.18:374][111]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.08.18:375][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.18:397][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.08.18:405][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.08.18:510][111]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF78A700), frame # 197111
+[2020.08.03-10.08.18:510][111]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5E0CDE000), frame # 197111
+[2020.08.03-10.08.18:515][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.08.03-10.08.18:577][112]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.08.03-10.08.51:553][ 59]BlueprintLog: New page: Compile Pre-Tutorial
+[2020.08.03-10.08.51:628][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.08.03-10.09.01:695][422]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.09.01:729][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.09.01:729][422]PIE: New page: PIE session: MainMenu (4/08/2020, 10:09:01 am)
+[2020.08.03-10.09.01:730][422]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.09.01:732][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001833s)
+[2020.08.03-10.09.01:733][422]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.09.01:733][422]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4B766A800), frame # 198422
+[2020.08.03-10.09.01:733][422]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5DCD53EC0), frame # 198422
+[2020.08.03-10.09.01:733][422]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2020.08.03-10.09.01:733][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003711s)
+[2020.08.03-10.09.01:774][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.08.03-10.09.01:776][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.09.01:776][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.09.01:776][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.09.01:776][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.09.01:776][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.09.01:776][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.09.01:776][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.09.01:776][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.09.01:777][422]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.09.01:777][422]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.09.01:785][422]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.09.01:785][422]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.09.01:839][422]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.09.01:839][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.09.01:839][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.09.01:839][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.09.01:840][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.09.01:860][422]LogInit: FAudioDevice initialized.
+[2020.08.03-10.09.01:913][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.09.01:913][422]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.01:915][422]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.03-22.09.01
+[2020.08.03-10.09.01:915][422]LogWorld: Bringing up level for play took: 0.000623
+[2020.08.03-10.09.01:915][422]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.08.03-10.09.01:926][422]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.09.01:932][422]PIE: Server logged in
+[2020.08.03-10.09.01:935][422]PIE: Play in editor total start time 0.209 seconds.
+[2020.08.03-10.09.03:255][450]LogNet: Browse: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.09.03:255][450]LogLoad: LoadMap: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.09.03:257][450]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.09.03:258][450]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.03:258][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.03:305][450]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5DCD53EC0), frame # 198450
+[2020.08.03-10.09.03:305][450]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4B766A800), frame # 198450
+[2020.08.03-10.09.03:309][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.08.03-10.09.03:326][450]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.09.03:326][450]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4F9ED9E00), frame # 198450
+[2020.08.03-10.09.03:326][450]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF679940), frame # 198450
+[2020.08.03-10.09.03:326][450]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.03:329][450]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial up for play (max tick rate 60) at 2020.08.03-22.09.03
+[2020.08.03-10.09.03:330][450]LogWorld: Bringing up level for play took: 0.001739
+[2020.08.03-10.09.03:330][450]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.09.03:336][450]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.09.03:339][450]LogLoad: Took 0.084408 seconds to LoadMap(/Game/Levels/Pre-Tutorial)
+[2020.08.03-10.09.04:060][469]LogNet: Browse: /Game/Levels/Tutorial
+[2020.08.03-10.09.04:060][469]LogLoad: LoadMap: /Game/Levels/Tutorial
+[2020.08.03-10.09.04:060][469]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.09.04:061][469]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.04:061][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.04:113][469]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF679940), frame # 198469
+[2020.08.03-10.09.04:114][469]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4F9ED9E00), frame # 198469
+[2020.08.03-10.09.04:117][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.08.03-10.09.04:177][469]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.09.04:177][469]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D54B6CCC00), frame # 198469
+[2020.08.03-10.09.04:177][469]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D583879440), frame # 198469
+[2020.08.03-10.09.04:178][469]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.04:189][469]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.09.04
+[2020.08.03-10.09.04:190][469]LogWorld: Bringing up level for play took: 0.010295
+[2020.08.03-10.09.04:196][469]LogLoad: Took 0.135830 seconds to LoadMap(/Game/Levels/Tutorial)
+[2020.08.03-10.09.10:218][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.09.10:219][619]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.09.10:220][619]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.09.10:253][619]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.10:254][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.10:278][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.09.10:283][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.10:424][619]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D583879440), frame # 198619
+[2020.08.03-10.09.10:424][619]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D54B6CCC00), frame # 198619
+[2020.08.03-10.09.10:431][619]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.08.03-10.09.10:497][620]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.08.03-10.09.12:759][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.09.13:173][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.09.13:174][700]PIE: New page: PIE session: MainMenu (4/08/2020, 10:09:13 am)
+[2020.08.03-10.09.13:174][700]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.09.13:175][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001403s)
+[2020.08.03-10.09.13:176][700]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.09.13:176][700]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5E93FB400), frame # 198700
+[2020.08.03-10.09.13:176][700]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4C0EB6340), frame # 198700
+[2020.08.03-10.09.13:176][700]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2020.08.03-10.09.13:176][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002654s)
+[2020.08.03-10.09.13:208][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.08.03-10.09.13:209][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.09.13:209][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.09.13:209][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.09.13:209][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.09.13:209][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.09.13:209][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.09.13:209][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.09.13:209][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.09.13:210][700]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.09.13:210][700]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.09.13:214][700]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.09.13:214][700]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.09.13:238][700]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.09.13:239][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.09.13:239][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.09.13:239][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.09.13:240][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.09.13:256][700]LogInit: FAudioDevice initialized.
+[2020.08.03-10.09.13:312][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.09.13:312][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.13:314][700]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.03-22.09.13
+[2020.08.03-10.09.13:314][700]LogWorld: Bringing up level for play took: 0.000675
+[2020.08.03-10.09.13:314][700]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.08.03-10.09.13:321][700]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.09.13:326][700]PIE: Server logged in
+[2020.08.03-10.09.13:329][700]PIE: Play in editor total start time 0.16 seconds.
+[2020.08.03-10.09.14:598][732]LogNet: Browse: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.09.14:598][732]LogLoad: LoadMap: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.09.14:598][732]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.09.14:600][732]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.14:600][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.14:655][732]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4C0EB6340), frame # 198732
+[2020.08.03-10.09.14:655][732]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5E93FB400), frame # 198732
+[2020.08.03-10.09.14:658][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.08.03-10.09.14:672][732]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.09.14:672][732]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4C10ADE00), frame # 198732
+[2020.08.03-10.09.14:673][732]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D58381F100), frame # 198732
+[2020.08.03-10.09.14:673][732]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.14:675][732]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial up for play (max tick rate 60) at 2020.08.03-22.09.14
+[2020.08.03-10.09.14:676][732]LogWorld: Bringing up level for play took: 0.001651
+[2020.08.03-10.09.14:677][732]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.09.14:685][732]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.09.14:688][732]LogLoad: Took 0.090172 seconds to LoadMap(/Game/Levels/Pre-Tutorial)
+[2020.08.03-10.09.15:250][748]LogNet: Browse: /Game/Levels/Tutorial
+[2020.08.03-10.09.15:250][748]LogLoad: LoadMap: /Game/Levels/Tutorial
+[2020.08.03-10.09.15:250][748]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.09.15:251][748]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.15:252][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.15:310][748]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D58381F100), frame # 198748
+[2020.08.03-10.09.15:310][748]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4C10ADE00), frame # 198748
+[2020.08.03-10.09.15:314][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.08.03-10.09.15:375][748]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.09.15:375][748]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5FEBB7E00), frame # 198748
+[2020.08.03-10.09.15:375][748]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D58381DBC0), frame # 198748
+[2020.08.03-10.09.15:375][748]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.15:384][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.09.15
+[2020.08.03-10.09.15:384][748]LogWorld: Bringing up level for play took: 0.008006
+[2020.08.03-10.09.15:391][748]LogLoad: Took 0.141054 seconds to LoadMap(/Game/Levels/Tutorial)
+[2020.08.03-10.09.18:558][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.09.18:558][821]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.09.18:559][821]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.09.18:608][821]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.18:609][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.18:628][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.09.18:636][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.18:749][821]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D58381DBC0), frame # 198821
+[2020.08.03-10.09.18:749][821]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5FEBB7E00), frame # 198821
+[2020.08.03-10.09.18:755][821]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.08.03-10.09.18:816][822]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.08.03-10.09.21:289][922]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.09.21:326][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.09.21:326][922]PIE: New page: PIE session: MainMenu (4/08/2020, 10:09:21 am)
+[2020.08.03-10.09.21:329][922]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.09.21:331][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002146s)
+[2020.08.03-10.09.21:333][922]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.09.21:333][922]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4B7669200), frame # 198922
+[2020.08.03-10.09.21:333][922]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5846B4900), frame # 198922
+[2020.08.03-10.09.21:333][922]LogPlayLevel: PIE: World Init took: (0.001935s)
+[2020.08.03-10.09.21:334][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.004404s)
+[2020.08.03-10.09.21:376][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.08.03-10.09.21:377][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.09.21:377][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.09.21:377][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.09.21:377][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.09.21:377][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.09.21:377][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.09.21:377][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.09.21:377][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.09.21:378][922]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.09.21:379][922]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.09.21:386][922]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.09.21:386][922]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.09.21:431][922]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.09.21:431][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.09.21:431][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.09.21:431][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.09.21:432][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.09.21:458][922]LogInit: FAudioDevice initialized.
+[2020.08.03-10.09.21:513][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.09.21:514][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.21:515][922]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.03-22.09.21
+[2020.08.03-10.09.21:516][922]LogWorld: Bringing up level for play took: 0.000731
+[2020.08.03-10.09.21:516][922]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.08.03-10.09.21:527][922]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.09.21:535][922]PIE: Server logged in
+[2020.08.03-10.09.21:540][922]PIE: Play in editor total start time 0.219 seconds.
+[2020.08.03-10.09.22:588][949]LogNet: Browse: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.09.22:588][949]LogLoad: LoadMap: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.09.22:588][949]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.09.22:590][949]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.22:590][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.22:642][949]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5846B4900), frame # 198949
+[2020.08.03-10.09.22:642][949]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4B7669200), frame # 198949
+[2020.08.03-10.09.22:647][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.08.03-10.09.22:663][949]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.09.22:663][949]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4B766B200), frame # 198949
+[2020.08.03-10.09.22:663][949]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D58387B100), frame # 198949
+[2020.08.03-10.09.22:664][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.22:666][949]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial up for play (max tick rate 60) at 2020.08.03-22.09.22
+[2020.08.03-10.09.22:667][949]LogWorld: Bringing up level for play took: 0.001604
+[2020.08.03-10.09.22:667][949]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.09.22:674][949]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.09.22:675][949]LogLoad: Took 0.087151 seconds to LoadMap(/Game/Levels/Pre-Tutorial)
+[2020.08.03-10.09.23:299][968]LogNet: Browse: /Game/Levels/Level2
+[2020.08.03-10.09.23:299][968]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.03-10.09.23:299][968]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.09.23:300][968]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.23:301][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.23:348][968]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D58387B100), frame # 198968
+[2020.08.03-10.09.23:348][968]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4B766B200), frame # 198968
+[2020.08.03-10.09.23:352][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.08.03-10.09.23:354][968]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.09.23:384][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029549s)
+[2020.08.03-10.09.23:385][968]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.09.23:386][968]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5E01E8400), frame # 198968
+[2020.08.03-10.09.23:386][968]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D586C3C680), frame # 198968
+[2020.08.03-10.09.23:386][968]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2020.08.03-10.09.23:386][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.031896s)
+[2020.08.03-10.09.23:386][968]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.09.23:391][968]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.03-22.09.23
+[2020.08.03-10.09.23:391][968]LogWorld: Bringing up level for play took: 0.004216
+[2020.08.03-10.09.23:397][968]LogLoad: Took 0.097260 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level2)
+[2020.08.03-10.09.25:667][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.09.25:668][ 19]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.09.25:669][ 19]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.09.25:696][ 19]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.25:697][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.25:715][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.09.25:723][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.25:862][ 19]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D586C3C680), frame # 199019
+[2020.08.03-10.09.25:862][ 19]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5E01E8400), frame # 199019
+[2020.08.03-10.09.25:869][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.08.03-10.09.25:958][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.08.03-10.09.32:723][283]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2020.08.03-10.09.32:773][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.08.03-10.09.35:332][283]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-10.09.35:531][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/UI/Pre-Tutorial" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Widgets/UI/Pre-Tutorial.uasset" SILENT=true
+[2020.08.03-10.09.35:642][283]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Pre-Tutorial0000F1CD4321DDFD485ADFA07E9F527A.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Widgets/UI/Pre-Tutorial.uasset'
+[2020.08.03-10.09.35:647][283]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.09.35:647][283]LightingResults: New page: Lighting Build
+[2020.08.03-10.09.35:651][283]LoadErrors: New page: Loading map: Level2.umap
+[2020.08.03-10.09.35:652][283]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.35:652][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.35:652][283]MapCheck: New page: Map Check
+[2020.08.03-10.09.35:652][283]LightingResults: New page: Lighting Build
+[2020.08.03-10.09.35:676][283]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF79E980), frame # 199283
+[2020.08.03-10.09.35:676][283]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5453A8200), frame # 199283
+[2020.08.03-10.09.35:678][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.08.03-10.09.35:685][283]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.09.35:685][283]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.09.35:685][283]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5DE03A600), frame # 199283
+[2020.08.03-10.09.35:685][283]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D585CE0540), frame # 199283
+[2020.08.03-10.09.35:714][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.08.03-10.09.35:745][283]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.09.35:756][283]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.078ms to complete.
+[2020.08.03-10.09.35:756][283]LogFileHelpers: Loading map 'Level2' took 0.111
+[2020.08.03-10.09.35:797][283]AssetCheck: New page: Asset Save: Pre-Tutorial
+[2020.08.03-10.09.35:797][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/UI/Pre-Tutorial.Pre-Tutorial
+[2020.08.03-10.09.43:095][638]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2020.08.03-10.09.43:130][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.08.03-10.09.43:133][638]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.09.43:134][638]LightingResults: New page: Lighting Build
+[2020.08.03-10.09.43:144][638]LoadErrors: New page: Loading map: Level2.umap
+[2020.08.03-10.09.43:180][638]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.09.43:180][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.09.43:180][638]MapCheck: New page: Map Check
+[2020.08.03-10.09.43:180][638]LightingResults: New page: Lighting Build
+[2020.08.03-10.09.43:218][638]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D585CE0540), frame # 199638
+[2020.08.03-10.09.43:218][638]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5DE03A600), frame # 199638
+[2020.08.03-10.09.43:220][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.08.03-10.09.43:258][638]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.09.43:258][638]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D600306A00), frame # 199638
+[2020.08.03-10.09.43:258][638]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4C1338E00), frame # 199638
+[2020.08.03-10.09.43:266][638]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.09.43:301][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.08.03-10.09.43:342][638]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.09.43:342][638]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2020.08.03-10.09.43:342][638]LogFileHelpers: Loading map 'Level2' took 0.209
+[2020.08.03-10.09.48:297][881]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level2.Level2:PersistentLevel.Level2
+[2020.08.03-10.10.31:718][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Tutorial.Tutorial
+[2020.08.03-10.10.31:758][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.08.03-10.10.31:762][489]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.10.31:762][489]LightingResults: New page: Lighting Build
+[2020.08.03-10.10.31:771][489]LoadErrors: New page: Loading map: Tutorial.umap
+[2020.08.03-10.10.31:810][489]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.10.31:810][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.10.31:870][489]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.10.31:870][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.10.31:870][489]MapCheck: New page: Map Check
+[2020.08.03-10.10.31:870][489]LightingResults: New page: Lighting Build
+[2020.08.03-10.10.31:903][489]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4C1338E00), frame # 201489
+[2020.08.03-10.10.31:903][489]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D600306A00), frame # 201489
+[2020.08.03-10.10.31:905][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.08.03-10.10.31:916][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.10.31:916][489]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.10.31:916][489]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5C1741600), frame # 201489
+[2020.08.03-10.10.31:916][489]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4C13382C0), frame # 201489
+[2020.08.03-10.10.31:953][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.08.03-10.10.31:993][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.10.31:993][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.245ms to complete.
+[2020.08.03-10.10.31:993][489]LogFileHelpers: Loading map 'Tutorial' took 0.233
+[2020.08.03-10.10.36:067][677]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Tutorial.Tutorial:PersistentLevel.Tutorial
+[2020.08.03-10.10.38:057][742]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2020.08.03-10.10.38:065][742]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2020.08.03-10.11.17:663][265]BlueprintLog: New page: Compile Tutorial
+[2020.08.03-10.11.17:753][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.08.03-10.11.29:731][713]BlueprintLog: New page: Compile Tutorial
+[2020.08.03-10.11.29:812][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.08.03-10.11.33:254][859]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.11.33:287][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.11.33:287][859]PIE: New page: PIE session: Tutorial (4/08/2020, 10:11:33 am)
+[2020.08.03-10.11.33:290][859]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.11.33:308][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018432s)
+[2020.08.03-10.11.33:310][859]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.11.33:310][859]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5E98B7000), frame # 203859
+[2020.08.03-10.11.33:310][859]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5E017DF80), frame # 203859
+[2020.08.03-10.11.33:310][859]LogPlayLevel: PIE: World Init took: (0.001560s)
+[2020.08.03-10.11.33:310][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.020242s)
+[2020.08.03-10.11.33:349][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.11.33:350][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.11.33:350][859]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.11.33:350][859]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.11.33:358][859]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.11.33:358][859]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.11.33:390][859]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.11.33:390][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.11.33:390][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.11.33:390][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.11.33:390][859]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.11.33:406][859]LogInit: FAudioDevice initialized.
+[2020.08.03-10.11.33:454][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.11.33:454][859]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.11.33:459][859]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.11.33
+[2020.08.03-10.11.33:460][859]LogWorld: Bringing up level for play took: 0.004682
+[2020.08.03-10.11.33:460][859]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.08.03-10.11.33:472][859]PIE: Server logged in
+[2020.08.03-10.11.33:475][859]PIE: Play in editor total start time 0.192 seconds.
+[2020.08.03-10.11.36:585][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.11.36:585][928]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.11.36:587][928]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.11.36:624][928]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.36:625][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.36:642][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.11.36:651][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.36:743][928]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5E017DF80), frame # 203928
+[2020.08.03-10.11.36:743][928]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5E98B7000), frame # 203928
+[2020.08.03-10.11.36:746][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.08.03-10.11.36:808][929]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.08.03-10.11.40:595][ 80]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Pre-Tutorial.Pre-Tutorial
+[2020.08.03-10.11.40:648][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.08.03-10.11.42:568][ 80]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-10.11.42:769][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.08.03-10.11.43:218][ 80]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial5CD60A364C41457E4701A8BE411F4326.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial.umap'
+[2020.08.03-10.11.43:256][ 80]LogFileHelpers: Saving map 'Tutorial' took 0.519
+[2020.08.03-10.11.43:257][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial_BuiltData" FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset" SILENT=true
+[2020.08.03-10.11.43:508][ 80]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Saved/Tutorial_BuiltData2E336DB340C53C4B0CD0CFA563BD23D3.tmp' to '../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Tutorial_BuiltData.uasset'
+[2020.08.03-10.11.43:514][ 80]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/Pre-Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.11.43:514][ 80]LightingResults: New page: Lighting Build
+[2020.08.03-10.11.43:518][ 80]LoadErrors: New page: Loading map: Pre-Tutorial.umap
+[2020.08.03-10.11.43:546][ 80]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.43:546][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.43:590][ 80]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.43:590][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.43:591][ 80]MapCheck: New page: Map Check
+[2020.08.03-10.11.43:591][ 80]LightingResults: New page: Lighting Build
+[2020.08.03-10.11.43:618][ 80]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4C13382C0), frame # 204080
+[2020.08.03-10.11.43:618][ 80]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5C1741600), frame # 204080
+[2020.08.03-10.11.43:620][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.08.03-10.11.43:636][ 80]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.11.43:636][ 80]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.11.43:636][ 80]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D56F701200), frame # 204080
+[2020.08.03-10.11.43:636][ 80]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5E017D6C0), frame # 204080
+[2020.08.03-10.11.43:663][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.08.03-10.11.43:696][ 80]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.11.43:697][ 80]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2020.08.03-10.11.43:697][ 80]LogFileHelpers: Loading map 'Pre-Tutorial' took 0.184
+[2020.08.03-10.11.43:774][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.03-10.11.43:774][ 80]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2020.08.03-10.11.43:808][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Tutorial_BuiltData.Tutorial_BuiltData
+[2020.08.03-10.11.45:323][158]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.11.45:354][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.11.45:354][158]PIE: New page: PIE session: Pre-Tutorial (4/08/2020, 10:11:45 am)
+[2020.08.03-10.11.45:354][158]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.11.45:356][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001561s)
+[2020.08.03-10.11.45:357][158]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.11.45:357][158]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4E64F5600), frame # 204158
+[2020.08.03-10.11.45:357][158]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D583482480), frame # 204158
+[2020.08.03-10.11.45:357][158]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2020.08.03-10.11.45:357][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Pre-Tutorial.Pre-Tutorial to /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial (0.003160s)
+[2020.08.03-10.11.45:395][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.08.03-10.11.45:396][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.11.45:396][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.11.45:396][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.11.45:396][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.11.45:396][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.11.45:396][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.11.45:396][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.11.45:396][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.11.45:397][158]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.11.45:397][158]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.11.45:404][158]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.11.45:404][158]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.11.45:435][158]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.11.45:435][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.11.45:435][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.11.45:435][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.11.45:435][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.11.45:450][158]LogInit: FAudioDevice initialized.
+[2020.08.03-10.11.45:504][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.11.45:505][158]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.11.45:506][158]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial up for play (max tick rate 60) at 2020.08.03-22.11.45
+[2020.08.03-10.11.45:506][158]LogWorld: Bringing up level for play took: 0.000615
+[2020.08.03-10.11.45:507][158]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.08.03-10.11.45:513][158]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.11.45:518][158]PIE: Server logged in
+[2020.08.03-10.11.45:522][158]PIE: Play in editor total start time 0.171 seconds.
+[2020.08.03-10.11.46:514][189]LogNet: Browse: /Game/Levels/Tutorial
+[2020.08.03-10.11.46:514][189]LogLoad: LoadMap: /Game/Levels/Tutorial
+[2020.08.03-10.11.46:514][189]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.11.46:516][189]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.46:516][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.46:572][189]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D583482480), frame # 204189
+[2020.08.03-10.11.46:572][189]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4E64F5600), frame # 204189
+[2020.08.03-10.11.46:576][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.08.03-10.11.46:577][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.11.46:608][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031187s)
+[2020.08.03-10.11.46:610][189]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.11.46:610][189]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D586CB4200), frame # 204189
+[2020.08.03-10.11.46:610][189]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5839C16C0), frame # 204189
+[2020.08.03-10.11.46:611][189]LogPlayLevel: PIE: World Init took: (0.002284s)
+[2020.08.03-10.11.46:611][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.033843s)
+[2020.08.03-10.11.46:611][189]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.11.46:615][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.11.46
+[2020.08.03-10.11.46:616][189]LogWorld: Bringing up level for play took: 0.003528
+[2020.08.03-10.11.46:621][189]LogLoad: Took 0.106557 seconds to LoadMap(/Game/Levels/UEDPIE_0_Tutorial)
+[2020.08.03-10.11.48:655][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.11.48:655][239]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.11.48:656][239]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.11.48:671][239]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.48:672][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.48:687][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.11.48:694][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.48:790][239]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5839C16C0), frame # 204239
+[2020.08.03-10.11.48:790][239]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D586CB4200), frame # 204239
+[2020.08.03-10.11.48:793][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.08.03-10.11.48:845][240]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.08.03-10.11.51:124][356]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.08.03-10.11.51:163][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.08.03-10.11.51:166][356]Cmd: MAP LOAD FILE="../../../../../../Users/micha/OneDrive/Documents/GitHub/Platformer/Platformer/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-10.11.51:166][356]LightingResults: New page: Lighting Build
+[2020.08.03-10.11.51:176][356]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.08.03-10.11.51:177][356]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.51:178][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.51:178][356]MapCheck: New page: Map Check
+[2020.08.03-10.11.51:178][356]LightingResults: New page: Lighting Build
+[2020.08.03-10.11.51:214][356]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5E017D6C0), frame # 204356
+[2020.08.03-10.11.51:215][356]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D56F701200), frame # 204356
+[2020.08.03-10.11.51:217][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.08.03-10.11.51:256][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.08.03-10.11.51:291][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.08.03-10.11.51:293][356]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-10.11.51:293][356]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.11.51:293][356]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F1D8BC00), frame # 204356
+[2020.08.03-10.11.51:293][356]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D580E21580), frame # 204356
+[2020.08.03-10.11.51:332][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.08.03-10.11.51:376][356]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-10.11.51:376][356]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2020.08.03-10.11.51:376][356]LogFileHelpers: Loading map 'MainMenu' took 0.213
+[2020.08.03-10.11.53:381][458]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.03-10.11.53:417][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-10.11.53:417][458]PIE: New page: PIE session: MainMenu (4/08/2020, 10:11:53 am)
+[2020.08.03-10.11.53:417][458]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.11.53:420][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2020.08.03-10.11.53:421][458]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.03-10.11.53:421][458]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5FEBB4800), frame # 204458
+[2020.08.03-10.11.53:421][458]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D581F6FC40), frame # 204458
+[2020.08.03-10.11.53:422][458]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2020.08.03-10.11.53:422][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.004300s)
+[2020.08.03-10.11.53:462][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.08.03-10.11.53:463][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-10.11.53:463][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-10.11.53:463][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-10.11.53:463][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-10.11.53:463][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-10.11.53:463][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-10.11.53:463][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-10.11.53:463][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-10.11.53:464][458]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-10.11.53:464][458]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-10.11.53:470][458]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-10.11.53:471][458]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-10.11.53:502][458]LogAudioMixer: Display: Using Audio Device Speakers (Surface Dock)
+[2020.08.03-10.11.53:502][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.03-10.11.53:502][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.03-10.11.53:502][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.03-10.11.53:503][458]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.03-10.11.53:521][458]LogInit: FAudioDevice initialized.
+[2020.08.03-10.11.53:572][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.11.53:572][458]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.11.53:574][458]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.03-22.11.53
+[2020.08.03-10.11.53:574][458]LogWorld: Bringing up level for play took: 0.000680
+[2020.08.03-10.11.53:574][458]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.08.03-10.11.53:582][458]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.11.53:586][458]PIE: Server logged in
+[2020.08.03-10.11.53:588][458]PIE: Play in editor total start time 0.176 seconds.
+[2020.08.03-10.11.54:767][491]LogNet: Browse: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.11.54:768][491]LogLoad: LoadMap: /Game/Levels/Pre-Tutorial
+[2020.08.03-10.11.54:768][491]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.08.03-10.11.54:769][491]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.54:769][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.54:813][491]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D581F6FC40), frame # 204491
+[2020.08.03-10.11.54:813][491]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5FEBB4800), frame # 204491
+[2020.08.03-10.11.54:816][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.08.03-10.11.54:830][491]LogAIModule: Creating AISystem for world Pre-Tutorial
+[2020.08.03-10.11.54:830][491]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5970DEE00), frame # 204491
+[2020.08.03-10.11.54:830][491]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5856B4680), frame # 204491
+[2020.08.03-10.11.54:831][491]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.11.54:833][491]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Pre-Tutorial.Pre-Tutorial up for play (max tick rate 60) at 2020.08.03-22.11.54
+[2020.08.03-10.11.54:833][491]LogWorld: Bringing up level for play took: 0.001100
+[2020.08.03-10.11.54:834][491]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.11.54:841][491]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.11.54:843][491]LogLoad: Took 0.075810 seconds to LoadMap(/Game/Levels/Pre-Tutorial)
+[2020.08.03-10.11.55:276][506]LogNet: Browse: /Game/Levels/Tutorial
+[2020.08.03-10.11.55:276][506]LogLoad: LoadMap: /Game/Levels/Tutorial
+[2020.08.03-10.11.55:276][506]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Pre-Tutorial
+[2020.08.03-10.11.55:277][506]LogWorld: UWorld::CleanupWorld for Pre-Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.11.55:277][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.11.55:326][506]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5856B4680), frame # 204506
+[2020.08.03-10.11.55:326][506]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5970DEE00), frame # 204506
+[2020.08.03-10.11.55:330][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.08.03-10.11.55:381][506]LogAIModule: Creating AISystem for world Tutorial
+[2020.08.03-10.11.55:381][506]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D54E0D2E00), frame # 204506
+[2020.08.03-10.11.55:381][506]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5846B5F80), frame # 204506
+[2020.08.03-10.11.55:382][506]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.11.55:389][506]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2020.08.03-22.11.55
+[2020.08.03-10.11.55:390][506]LogWorld: Bringing up level for play took: 0.007274
+[2020.08.03-10.11.55:395][506]LogLoad: Took 0.119456 seconds to LoadMap(/Game/Levels/Tutorial)
+[2020.08.03-10.12.07:403][799]LogNet: Browse: /Game/Levels/Level2
+[2020.08.03-10.12.07:403][799]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.03-10.12.07:403][799]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2020.08.03-10.12.07:404][799]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.12.07:405][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.12.07:515][799]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5846B5F80), frame # 204799
+[2020.08.03-10.12.07:515][799]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D54E0D2E00), frame # 204799
+[2020.08.03-10.12.07:520][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.08.03-10.12.07:588][799]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.12.07:588][799]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4B64D5A00), frame # 204799
+[2020.08.03-10.12.07:588][799]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF7FF9C0), frame # 204799
+[2020.08.03-10.12.07:588][799]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.12.07:596][799]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.03-22.12.07
+[2020.08.03-10.12.07:597][799]LogWorld: Bringing up level for play took: 0.007572
+[2020.08.03-10.12.07:604][799]LogLoad: Took 0.200916 seconds to LoadMap(/Game/Levels/Level2)
+[2020.08.03-10.12.09:114][836]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.03-10.12.09:114][836]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.03-10.12.09:114][836]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.12.09:115][836]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.12.09:116][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.12.09:217][836]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF7FF9C0), frame # 204836
+[2020.08.03-10.12.09:217][836]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4B64D5A00), frame # 204836
+[2020.08.03-10.12.09:222][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.08.03-10.12.09:238][836]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.03-10.12.09:238][836]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D586CB7E00), frame # 204836
+[2020.08.03-10.12.09:238][836]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF64AFC0), frame # 204836
+[2020.08.03-10.12.09:238][836]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.12.09:240][836]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.03-22.12.09
+[2020.08.03-10.12.09:240][836]LogWorld: Bringing up level for play took: 0.001219
+[2020.08.03-10.12.09:241][836]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.12.09:247][836]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.12.09:248][836]LogLoad: Took 0.134813 seconds to LoadMap(/Game/Levels/EndOfGame)
+[2020.08.03-10.12.12:068][917]LogNet: Browse: /Game/Levels/Level2
+[2020.08.03-10.12.12:068][917]LogLoad: LoadMap: /Game/Levels/Level2
+[2020.08.03-10.12.12:068][917]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.03-10.12.12:070][917]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.12.12:070][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.12.12:155][917]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF64AFC0), frame # 204917
+[2020.08.03-10.12.12:155][917]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D586CB7E00), frame # 204917
+[2020.08.03-10.12.12:163][917]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.08.03-10.12.12:271][917]LogAIModule: Creating AISystem for world Level2
+[2020.08.03-10.12.12:271][917]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F2A2EC00), frame # 204917
+[2020.08.03-10.12.12:271][917]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5EF64B880), frame # 204917
+[2020.08.03-10.12.12:272][917]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.12.12:286][917]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.08.03-22.12.12
+[2020.08.03-10.12.12:287][917]LogWorld: Bringing up level for play took: 0.013115
+[2020.08.03-10.12.12:296][917]LogLoad: Took 0.227869 seconds to LoadMap(/Game/Levels/Level2)
+[2020.08.03-10.12.35:985][505]LogNet: Browse: /Game/Levels/EndOfGame
+[2020.08.03-10.12.35:985][505]LogLoad: LoadMap: /Game/Levels/EndOfGame
+[2020.08.03-10.12.35:985][505]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2020.08.03-10.12.35:986][505]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.12.35:987][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.12.36:085][505]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5EF64B880), frame # 205505
+[2020.08.03-10.12.36:085][505]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5F2A2EC00), frame # 205505
+[2020.08.03-10.12.36:089][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.08.03-10.12.36:109][505]LogAIModule: Creating AISystem for world EndOfGame
+[2020.08.03-10.12.36:109][505]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D5F2A2F600), frame # 205505
+[2020.08.03-10.12.36:109][505]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D5C1D36200), frame # 205505
+[2020.08.03-10.12.36:110][505]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.03-10.12.36:112][505]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndOfGame.EndOfGame up for play (max tick rate 60) at 2020.08.03-22.12.36
+[2020.08.03-10.12.36:112][505]LogWorld: Bringing up level for play took: 0.001196
+[2020.08.03-10.12.36:113][505]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.03-10.12.36:119][505]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2020.08.03-10.12.36:121][505]LogLoad: Took 0.135455 seconds to LoadMap(/Game/Levels/EndOfGame)
+[2020.08.03-10.12.38:567][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-10.12.38:574][577]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndOfGame
+[2020.08.03-10.12.38:575][577]LogSlate: Window 'Platformer Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.08.03-10.12.38:610][577]LogWorld: UWorld::CleanupWorld for EndOfGame, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-10.12.38:610][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.12.38:636][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-10.12.38:643][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-10.12.38:741][577]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D5C1D36200), frame # 205577
+[2020.08.03-10.12.38:741][577]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D5F2A2F600), frame # 205577
+[2020.08.03-10.12.38:745][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.08.03-10.12.38:806][578]LogPlayLevel: Display: Destroying online subsystem :Context_60
