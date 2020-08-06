@@ -1,4 +1,4 @@
-## ReadMe
+# ReadMe
 
 <b>Course Code:</b> COMP313
 
@@ -10,7 +10,7 @@
 
 <b>Link to video showing the game (approx. 4-9 mins):</b> https://youtu.be/s1a5BjVrWXs
 
-# Game Description
+## Game Description
 
 <b>What is the main action in the game?</b>
 
